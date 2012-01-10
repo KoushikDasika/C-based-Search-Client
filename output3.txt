@@ -1,0 +1,32 @@
+<list> a
+	4: 1
+	3: 1
+	2: 1
+	1: 1
+	0: 1
+</list>
+<list> b
+	4: 1
+	3: 1
+	2: 1
+	1: 1
+</list>
+<list> c
+	4: 1
+	3: 1
+	2: 1
+</list>
+<list> d
+	4: 1
+	3: 1
+</list>
+<list> e
+	4: 1
+</list>
+<files>
+4 Untitled Folder/5
+3 Untitled Folder/4
+2 Untitled Folder/3
+1 Untitled Folder/2
+0 Untitled Folder/1
+</files>

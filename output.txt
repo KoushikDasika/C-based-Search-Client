@@ -1,0 +1,24 @@
+<list> a
+	1: 1
+	0: 1
+</list>
+<list> baa
+	0: 1
+</list>
+<list> boo
+	1: 1
+</list>
+<list> cat
+	0: 1
+</list>
+<list> dog
+	1: 1
+</list>
+<list> name
+	1: 2
+	0: 1
+</list>
+<files>
+1 test/boo
+0 test/baa
+</files>

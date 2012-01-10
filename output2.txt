@@ -1,0 +1,7666 @@
+<list> 0
+	0: 40
+	1: 21
+	3: 5
+</list>
+<list> 00
+	1: 48
+	3: 3
+	0: 1
+</list>
+<list> 000
+	1: 1
+</list>
+<list> 0000
+	0: 5
+</list>
+<list> 00000000h
+	3: 1
+</list>
+<list> 00000002
+	1: 1
+</list>
+<list> 00000004
+	3: 1
+</list>
+<list> 00000008
+	3: 2
+</list>
+<list> 0000000c
+	3: 1
+</list>
+<list> 0000001f
+	1: 1
+</list>
+<list> 00000020
+	3: 1
+</list>
+<list> 0000002c
+	1: 1
+</list>
+<list> 00000064
+	1: 1
+</list>
+<list> 000000e4
+	1: 2
+</list>
+<list> 00000104
+	1: 1
+</list>
+<list> 00000e71
+	1: 1
+</list>
+<list> 000023c78
+	1: 1
+</list>
+<list> 000023cf0
+	1: 1
+</list>
+<list> 0000h
+	3: 5
+</list>
+<list> 0001h
+	0: 2
+</list>
+<list> 0002
+	0: 1
+</list>
+<list> 00023a40
+	1: 1
+</list>
+<list> 00023a88
+	1: 1
+</list>
+<list> 00023c78
+	1: 1
+</list>
+<list> 00023cf0
+	1: 1
+</list>
+<list> 00024308
+	1: 1
+</list>
+<list> 0003
+	0: 2
+</list>
+<list> 0004
+	1: 1
+</list>
+<list> 0005
+	0: 1
+</list>
+<list> 0007
+	0: 1
+</list>
+<list> 00080fb0
+	1: 2
+</list>
+<list> 00081094
+	1: 1
+</list>
+<list> 004
+	1: 1
+</list>
+<list> 00400000h
+	1: 1
+</list>
+<list> 00404db2
+	3: 1
+</list>
+<list> 00404db8
+	3: 1
+</list>
+<list> 00404db9
+	3: 2
+</list>
+<list> 00404dbe
+	3: 1
+</list>
+<list> 00404dc1
+	3: 1
+</list>
+<list> 00404dc3
+	3: 1
+</list>
+<list> 00404ddc
+	3: 1
+</list>
+<list> 00407f76
+	3: 1
+</list>
+<list> 0040a2c9
+	3: 2
+</list>
+<list> 0040a2ca
+	3: 1
+</list>
+<list> 0040a2cc
+	3: 1
+</list>
+<list> 0040a2d2
+	3: 1
+</list>
+<list> 0040a2d3
+	3: 1
+</list>
+<list> 0040a2d4
+	3: 1
+</list>
+<list> 0040a2d5
+	3: 1
+</list>
+<list> 0040a2d8
+	3: 1
+</list>
+<list> 0040a2de
+	3: 1
+</list>
+<list> 0040a2e0
+	3: 2
+</list>
+<list> 0040a2e2
+	3: 2
+</list>
+<list> 0040a2e5
+	3: 1
+</list>
+<list> 0040a2e8
+	3: 2
+</list>
+<list> 0040a2ea
+	3: 1
+</list>
+<list> 0040a2ec
+	3: 1
+</list>
+<list> 0040a2ef
+	3: 1
+</list>
+<list> 0040a2f0
+	3: 1
+</list>
+<list> 0040a2f1
+	3: 1
+</list>
+<list> 0040a2f5
+	3: 2
+</list>
+<list> 0040a2f7
+	3: 2
+</list>
+<list> 0040a2f8
+	3: 3
+</list>
+<list> 0040a2fb
+	3: 2
+</list>
+<list> 0040a2fd
+	3: 1
+</list>
+<list> 0040a2fe
+	3: 1
+</list>
+<list> 0040a303
+	3: 1
+</list>
+<list> 0040a304
+	3: 1
+</list>
+<list> 0040a309
+	3: 1
+</list>
+<list> 0040a30a
+	3: 1
+</list>
+<list> 0040a30c
+	3: 1
+</list>
+<list> 0040a30f
+	3: 2
+</list>
+<list> 0040a311
+	3: 1
+</list>
+<list> 0040a314
+	3: 2
+</list>
+<list> 0040a316
+	3: 2
+</list>
+<list> 0040a318
+	3: 1
+</list>
+<list> 0040a31a
+	3: 1
+</list>
+<list> 0040a31c
+	3: 2
+</list>
+<list> 0040a31e
+	3: 2
+</list>
+<list> 0040a322
+	3: 1
+</list>
+<list> 0040a325
+	3: 1
+</list>
+<list> 0040a329
+	3: 1
+</list>
+<list> 0040a32c
+	3: 1
+</list>
+<list> 0040a32e
+	3: 1
+</list>
+<list> 0040a330
+	3: 1
+</list>
+<list> 0040a331
+	3: 1
+</list>
+<list> 0040a333
+	3: 2
+</list>
+<list> 0040a335
+	3: 2
+</list>
+<list> 0040a33a
+	3: 1
+</list>
+<list> 0040a33d
+	3: 1
+</list>
+<list> 0040a33f
+	3: 1
+</list>
+<list> 0040a340
+	3: 1
+</list>
+<list> 0040a345
+	3: 1
+</list>
+<list> 0040a34b
+	3: 1
+</list>
+<list> 0040a34c
+	3: 1
+</list>
+<list> 0040a351
+	3: 1
+</list>
+<list> 0040a354
+	3: 1
+</list>
+<list> 0040a35a
+	3: 1
+</list>
+<list> 0040a35b
+	3: 1
+</list>
+<list> 0040a360
+	3: 1
+</list>
+<list> 0040a366
+	3: 1
+</list>
+<list> 0040a367
+	3: 1
+</list>
+<list> 0040a36a
+	3: 1
+</list>
+<list> 0040a36f
+	3: 1
+</list>
+<list> 0040a372
+	3: 1
+</list>
+<list> 0040a374
+	3: 2
+</list>
+<list> 0040a376
+	3: 1
+</list>
+<list> 0040a379
+	3: 2
+</list>
+<list> 0040a37b
+	3: 2
+</list>
+<list> 0040a37d
+	3: 3
+</list>
+<list> 0040a37e
+	3: 1
+</list>
+<list> 0040a37f
+	3: 1
+</list>
+<list> 0040a380
+	3: 1
+</list>
+<list> 0040a382
+	3: 1
+</list>
+<list> 0040a383
+	3: 1
+</list>
+<list> 0040d378
+	3: 1
+</list>
+<list> 0040d3e4
+	3: 1
+</list>
+<list> 0040d618
+	3: 1
+</list>
+<list> 0040d636
+	3: 1
+</list>
+<list> 0040f55e
+	3: 1
+</list>
+<list> 0040h
+	0: 2
+</list>
+<list> 00416720
+	3: 1
+</list>
+<list> 0041ec40
+	1: 1
+</list>
+<list> 0041ed40
+	1: 1
+</list>
+<list> 004242d0
+	1: 1
+</list>
+<list> 004242d6
+	1: 1
+</list>
+<list> 004242d7
+	1: 1
+</list>
+<list> 004242d9
+	1: 1
+</list>
+<list> 004242da
+	1: 1
+</list>
+<list> 004242df
+	1: 1
+</list>
+<list> 004242e1
+	1: 1
+</list>
+<list> 004242e5
+	1: 1
+</list>
+<list> 004242ea
+	1: 1
+</list>
+<list> 004242f0
+	1: 1
+</list>
+<list> 004242f1
+	1: 1
+</list>
+<list> 004242f2
+	1: 1
+</list>
+<list> 004242f8
+	1: 1
+</list>
+<list> 004242fa
+	1: 1
+</list>
+<list> 004242fb
+	1: 1
+</list>
+<list> 00424301
+	1: 1
+</list>
+<list> 00424302
+	1: 1
+</list>
+<list> 00424307
+	1: 1
+</list>
+<list> 00424308
+	1: 6
+</list>
+<list> 0042430d
+	1: 2
+</list>
+<list> 00424313
+	1: 2
+</list>
+<list> 00424314
+	1: 2
+</list>
+<list> 0042431a
+	1: 2
+</list>
+<list> 0042431b
+	1: 2
+</list>
+<list> 0042431c
+	1: 1
+</list>
+<list> 00424321
+	1: 1
+</list>
+<list> 00424323
+	1: 2
+</list>
+<list> 00424328
+	1: 1
+</list>
+<list> 0042432c
+	1: 1
+</list>
+<list> 0042432e
+	1: 1
+</list>
+<list> 0042432f
+	1: 1
+</list>
+<list> 00424334
+	1: 1
+</list>
+<list> 00424337
+	1: 1
+</list>
+<list> 0042433a
+	1: 1
+</list>
+<list> 0042433c
+	1: 1
+</list>
+<list> 0042433d
+	1: 1
+</list>
+<list> 0042433f
+	1: 1
+</list>
+<list> 00424340
+	1: 1
+</list>
+<list> 00424346
+	1: 1
+</list>
+<list> 00424349
+	1: 1
+</list>
+<list> 004376fd
+	1: 1
+</list>
+<list> 00437baf
+	1: 1
+</list>
+<list> 00480fb0
+	1: 2
+</list>
+<list> 00481094
+	1: 5
+</list>
+<list> 004842c4
+	1: 1
+</list>
+<list> 0070
+	0: 1
+</list>
+<list> 00a7h
+	0: 3
+</list>
+<list> 00h
+	0: 1
+</list>
+<list> 01
+	3: 1
+</list>
+<list> 0100
+	0: 1
+</list>
+<list> 0103
+	0: 1
+</list>
+<list> 0105
+	0: 1
+</list>
+<list> 0108
+	0: 1
+</list>
+<list> 010a
+	0: 1
+</list>
+<list> 010e
+	0: 1
+</list>
+<list> 0112
+	0: 1
+</list>
+<list> 0115
+	0: 1
+</list>
+<list> 014h
+	0: 1
+</list>
+<list> 019h
+	0: 1
+</list>
+<list> 01c3
+	0: 1
+</list>
+<list> 0200
+	0: 1
+</list>
+<list> 0201h
+	0: 2
+</list>
+<list> 0208
+	0: 1
+</list>
+<list> 020a
+	0: 1
+</list>
+<list> 02dh
+	0: 1
+</list>
+<list> 03
+	3: 3
+</list>
+<list> 03d0
+	3: 1
+</list>
+<list> 03d3
+	3: 1
+</list>
+<list> 03df
+	3: 1
+</list>
+<list> 03h
+	3: 4
+</list>
+<list> 041h
+	0: 1
+</list>
+<list> 0432h
+	0: 1
+</list>
+<list> 046h
+	0: 1
+</list>
+<list> 0500
+	0: 6
+</list>
+<list> 0501
+	0: 1
+</list>
+<list> 0504
+	0: 1
+</list>
+<list> 0507
+	0: 1
+</list>
+<list> 050a
+	0: 1
+</list>
+<list> 050d
+	0: 1
+</list>
+<list> 0510
+	0: 2
+</list>
+<list> 0511
+	0: 1
+</list>
+<list> 0513
+	0: 1
+</list>
+<list> 0515
+	0: 1
+</list>
+<list> 0516
+	0: 1
+</list>
+<list> 0518
+	0: 1
+</list>
+<list> 051c
+	0: 1
+</list>
+<list> 051e
+	0: 1
+</list>
+<list> 0521
+	0: 2
+</list>
+<list> 05ah
+	0: 1
+</list>
+<list> 05d1h
+	0: 1
+</list>
+<list> 05fh
+	0: 1
+</list>
+<list> 07
+	1: 2
+</list>
+<list> 073h
+	0: 1
+</list>
+<list> 07h
+	0: 2
+</list>
+<list> 08
+	3: 1
+</list>
+<list> 087h
+	0: 1
+</list>
+<list> 08ch
+	0: 1
+</list>
+<list> 0a0h
+	0: 1
+</list>
+<list> 0a4ch
+	0: 1
+</list>
+<list> 0ah
+	0: 3
+</list>
+<list> 0b4h
+	0: 1
+</list>
+<list> 0b8h
+	0: 1
+</list>
+<list> 0c
+	3: 1
+</list>
+<list> 0c00
+	0: 1
+</list>
+<list> 0ch
+	0: 1
+</list>
+<list> 0d803h
+	0: 1
+</list>
+<list> 0dh
+	0: 2
+</list>
+<list> 0e07h
+	0: 1
+</list>
+<list> 0e77
+	0: 1
+</list>
+<list> 0ebh
+	0: 1
+</list>
+<list> 0f1cdh
+	0: 1
+</list>
+<list> 0f8dh
+	0: 1
+</list>
+<list> 0faff8
+	3: 1
+</list>
+<list> 0fbe0a
+	3: 1
+</list>
+<list> 0fbe1c06
+	3: 1
+</list>
+<list> 0fbe3c06
+	3: 1
+</list>
+<list> 0ff00h
+	0: 1
+</list>
+<list> 0h
+	0: 1
+</list>
+<list> 0xf1
+	0: 1
+</list>
+<list> 1
+	0: 32
+	3: 4
+	2: 1
+	1: 1
+</list>
+<list> 10
+	0: 5
+	3: 3
+	1: 1
+</list>
+<list> 100
+	0: 4
+</list>
+<list> 1000
+	0: 3
+</list>
+<list> 1000h
+	0: 1
+</list>
+<list> 1002
+	0: 1
+</list>
+<list> 1005
+	0: 1
+</list>
+<list> 1007
+	0: 1
+</list>
+<list> 100h
+	0: 3
+</list>
+<list> 1010
+	0: 1
+</list>
+<list> 102h
+	0: 3
+</list>
+<list> 10h
+	0: 3
+</list>
+<list> 11
+	0: 1
+</list>
+<list> 12
+	0: 1
+</list>
+<list> 1234567890
+	0: 1
+</list>
+<list> 127
+	0: 1
+</list>
+<list> 128
+	0: 1
+</list>
+<list> 128k
+	1: 1
+</list>
+<list> 13
+	0: 5
+	3: 1
+</list>
+<list> 13h
+	0: 11
+</list>
+<list> 14
+	1: 1
+	0: 1
+</list>
+<list> 15
+	0: 2
+</list>
+<list> 16
+	3: 2
+	0: 2
+</list>
+<list> 17
+	0: 1
+</list>
+<list> 18
+	0: 1
+</list>
+<list> 19
+	0: 1
+</list>
+<list> 1991
+	0: 1
+</list>
+<list> 1992
+	0: 1
+</list>
+<list> 1995
+	1: 1
+</list>
+<list> 1999
+	1: 3
+</list>
+<list> 1a00
+	0: 1
+</list>
+<list> 1c12h
+	0: 1
+</list>
+<list> 1c20h
+	0: 1
+</list>
+<list> 1da5h
+	0: 1
+</list>
+<list> 1fe5
+	0: 1
+</list>
+<list> 1fe5h
+	0: 4
+</list>
+<list> 1fe7h
+	0: 1
+</list>
+<list> 2
+	0: 25
+	1: 3
+	2: 1
+</list>
+<list> 20
+	1: 43
+	0: 1
+</list>
+<list> 200
+	0: 5
+</list>
+<list> 2000
+	1: 3
+</list>
+<list> 200h
+	0: 2
+</list>
+<list> 20h
+	3: 1
+</list>
+<list> 21
+	0: 10
+	1: 1
+</list>
+<list> 21h
+	0: 22
+</list>
+<list> 22
+	0: 4
+</list>
+<list> 23
+	1: 3
+	0: 1
+</list>
+<list> 24
+	0: 1
+</list>
+<list> 25
+	1: 4
+	0: 1
+</list>
+<list> 2510h
+	0: 1
+</list>
+<list> 2521h
+	0: 2
+</list>
+<list> 255
+	0: 1
+</list>
+<list> 25f1h
+	0: 2
+</list>
+<list> 26
+	0: 1
+</list>
+<list> 26a30005
+	0: 1
+</list>
+<list> 27
+	0: 1
+</list>
+<list> 27h
+	0: 2
+</list>
+<list> 28
+	1: 3
+	0: 1
+</list>
+<list> 286
+	0: 1
+</list>
+<list> 29
+	1: 1
+	0: 1
+</list>
+<list> 2c
+	1: 9
+</list>
+<list> 2da5h
+	0: 1
+</list>
+<list> 2e
+	1: 6
+</list>
+<list> 2e0b
+	0: 24
+</list>
+<list> 3
+	0: 33
+	3: 5
+	1: 2
+	2: 1
+</list>
+<list> 30
+	1: 16
+	0: 3
+</list>
+<list> 3010
+	0: 1
+</list>
+<list> 30h
+	0: 1
+</list>
+<list> 31
+	1: 3
+	0: 1
+</list>
+<list> 3140
+	0: 1
+</list>
+<list> 32
+	1: 6
+	3: 2
+	0: 1
+</list>
+<list> 32767
+	0: 1
+</list>
+<list> 32768
+	0: 1
+</list>
+<list> 33
+	1: 3
+	0: 1
+</list>
+<list> 33c0
+	3: 3
+	1: 2
+</list>
+<list> 33d2
+	3: 1
+</list>
+<list> 34
+	0: 1
+</list>
+<list> 345a
+	0: 1
+</list>
+<list> 3510h
+	0: 1
+</list>
+<list> 3521h
+	0: 1
+</list>
+<list> 35f1h
+	0: 1
+</list>
+<list> 37
+	1: 3
+</list>
+<list> 386
+	0: 1
+</list>
+<list> 38d0
+	0: 1
+</list>
+<list> 39
+	1: 9
+</list>
+<list> 3a
+	1: 1
+</list>
+<list> 3b1e0043
+	0: 1
+</list>
+<list> 3bc8
+	3: 2
+</list>
+<list> 3eff24
+	0: 1
+</list>
+<list> 4
+	0: 8
+	1: 2
+	3: 1
+	2: 1
+</list>
+<list> 40
+	3: 2
+</list>
+<list> 40a2c9
+	3: 1
+</list>
+<list> 41
+	1: 3
+</list>
+<list> 42
+	1: 6
+	3: 2
+</list>
+<list> 43
+	1: 4
+</list>
+<list> 4300
+	0: 1
+</list>
+<list> 4300h
+	0: 1
+</list>
+<list> 44
+	1: 2
+</list>
+<list> 45
+	1: 6
+</list>
+<list> 46
+	1: 1
+</list>
+<list> 48
+	1: 1
+</list>
+<list> 49
+	1: 5
+</list>
+<list> 4ah
+	0: 1
+</list>
+<list> 4b00h
+	0: 2
+</list>
+<list> 4c
+	1: 1
+</list>
+<list> 4c00h
+	0: 1
+</list>
+<list> 4c03h
+	0: 1
+</list>
+<list> 4ch
+	0: 1
+</list>
+<list> 4e
+	1: 4
+</list>
+<list> 5
+	0: 5
+	1: 2
+	2: 1
+</list>
+<list> 50
+	1: 3
+	0: 2
+	3: 1
+</list>
+<list> 500
+	1: 1
+	0: 1
+</list>
+<list> 500h
+	0: 4
+</list>
+<list> 502
+	0: 1
+</list>
+<list> 502h
+	0: 2
+</list>
+<list> 5080
+	0: 1
+</list>
+<list> 51
+	1: 3
+	3: 1
+</list>
+<list> 518
+	0: 1
+</list>
+<list> 518h
+	0: 2
+</list>
+<list> 519h
+	0: 1
+</list>
+<list> 52
+	1: 6
+	3: 3
+</list>
+<list> 53
+	3: 1
+	1: 1
+</list>
+<list> 54
+	1: 7
+</list>
+<list> 55
+	1: 3
+	3: 1
+</list>
+<list> 56
+	1: 6
+	3: 3
+</list>
+<list> 56c0
+	0: 1
+</list>
+<list> 56c0h
+	0: 1
+</list>
+<list> 57
+	3: 1
+	1: 1
+</list>
+<list> 59
+	3: 1
+</list>
+<list> 5a
+	0: 1
+</list>
+<list> 5b
+	3: 1
+</list>
+<list> 5c10
+	0: 1
+</list>
+<list> 5d
+	3: 1
+</list>
+<list> 5e
+	3: 1
+	1: 1
+</list>
+<list> 5f
+	3: 1
+	1: 1
+</list>
+<list> 6
+	1: 3
+	0: 3
+	2: 1
+</list>
+<list> 60
+	0: 2
+</list>
+<list> 61
+	1: 16
+</list>
+<list> 63
+	1: 6
+</list>
+<list> 64
+	1: 15
+</list>
+<list> 64k
+	1: 1
+</list>
+<list> 65
+	1: 29
+</list>
+<list> 65535
+	0: 1
+</list>
+<list> 66
+	1: 3
+</list>
+<list> 6699
+	1: 1
+</list>
+<list> 66ab
+	1: 1
+</list>
+<list> 67
+	1: 6
+</list>
+<list> 68
+	1: 3
+</list>
+<list> 6840444800
+	1: 1
+</list>
+<list> 685ef54000
+	3: 1
+</list>
+<list> 68710e0000
+	1: 1
+</list>
+<list> 6894104800
+	1: 3
+</list>
+<list> 68c4424800
+	1: 1
+</list>
+<list> 69
+	1: 15
+</list>
+<list> 6a02
+	1: 1
+</list>
+<list> 6a64
+	1: 1
+</list>
+<list> 6b
+	1: 1
+</list>
+<list> 6c
+	1: 13
+</list>
+<list> 6d
+	1: 2
+</list>
+<list> 6e
+	1: 24
+</list>
+<list> 6f
+	1: 14
+</list>
+<list> 7
+	1: 18
+	0: 1
+</list>
+<list> 70
+	1: 9
+</list>
+<list> 71
+	1: 1
+</list>
+<list> 72
+	1: 18
+</list>
+<list> 7209
+	0: 1
+</list>
+<list> 73
+	1: 16
+</list>
+<list> 74
+	1: 12
+</list>
+<list> 7403
+	0: 1
+</list>
+<list> 7405
+	3: 1
+</list>
+<list> 740d
+	3: 1
+</list>
+<list> 75
+	1: 10
+</list>
+<list> 750d
+	1: 1
+</list>
+<list> 7569
+	0: 1
+</list>
+<list> 75e5
+	3: 1
+</list>
+<list> 76
+	1: 4
+</list>
+<list> 77
+	1: 4
+</list>
+<list> 79
+	1: 1
+</list>
+<list> 7a7a
+	0: 1
+</list>
+<list> 7aa7
+	0: 1
+</list>
+<list> 7aa7h
+	0: 3
+</list>
+<list> 7d05
+	3: 1
+</list>
+<list> 7d17
+	3: 1
+</list>
+<list> 7e17
+	3: 1
+</list>
+<list> 7fe9
+	3: 1
+</list>
+<list> 7fh
+	0: 1
+</list>
+<list> 8
+	1: 3
+	0: 3
+</list>
+<list> 803a00
+	3: 1
+</list>
+<list> 80h
+	0: 2
+</list>
+<list> 81c4b0feffff
+	3: 1
+</list>
+<list> 81c4e4000000
+	1: 1
+</list>
+<list> 81ece4000000
+	1: 1
+</list>
+<list> 83c408
+	3: 2
+</list>
+<list> 83c40c
+	3: 1
+</list>
+<list> 83c42c
+	1: 1
+</list>
+<list> 83c8ff
+	3: 2
+</list>
+<list> 83f8ff
+	1: 1
+</list>
+<list> 83f904
+	3: 1
+</list>
+<list> 83f920
+	3: 1
+</list>
+<list> 85c0
+	3: 2
+</list>
+<list> 873977046
+	3: 1
+</list>
+<list> 880c06
+	3: 1
+</list>
+<list> 88d1
+	0: 1
+</list>
+<list> 890e0005
+	0: 1
+</list>
+<list> 89c2
+	0: 1
+</list>
+<list> 8a0a
+	3: 1
+</list>
+<list> 8b160005
+	0: 1
+</list>
+<list> 8b5508
+	3: 1
+</list>
+<list> 8b55h
+	0: 1
+</list>
+<list> 8b8604010000
+	1: 1
+</list>
+<list> 8b8e883a0200
+	1: 1
+</list>
+<list> 8b96403a0200
+	1: 1
+</list>
+<list> 8bc8
+	3: 1
+</list>
+<list> 8be5
+	3: 1
+</list>
+<list> 8bec
+	3: 1
+</list>
+<list> 8bf1
+	1: 1
+</list>
+<list> 8d54242c
+	1: 1
+</list>
+<list> 8d7c246d
+	1: 1
+</list>
+<list> 8d85b0feffff
+	3: 1
+</list>
+<list> 8d86f03c0200
+	1: 2
+</list>
+<list> 8d8db0feffff
+	3: 1
+</list>
+<list> 8d8e783c0200
+	1: 2
+</list>
+<list> 8d95a8faffff
+	3: 1
+</list>
+<list> 8d95b0feffff
+	3: 1
+</list>
+<list> 8db500ffffff
+	3: 1
+</list>
+<list> 8fabh
+	0: 1
+</list>
+<list> 9
+	0: 4
+	1: 1
+</list>
+<list> 90
+	0: 4
+</list>
+<list> 90h
+	0: 1
+</list>
+<list> 97
+	3: 2
+</list>
+<list> 9h
+	0: 2
+</list>
+<list> 9x
+	1: 1
+</list>
+<list> a
+	0: 215
+	1: 40
+	3: 19
+	2: 2
+</list>
+<list> a120674100
+	3: 1
+</list>
+<list> a2ure
+	1: 1
+</list>
+<list> a700h
+	0: 1
+</list>
+<list> a77ah
+	0: 1
+</list>
+<list> a9
+	1: 3
+</list>
+<list> aa
+	1: 2
+	0: 1
+</list>
+<list> ab
+	1: 1
+</list>
+<list> able
+	0: 1
+</list>
+<list> about
+	0: 14
+	2: 1
+	1: 1
+</list>
+<list> above
+	0: 13
+	1: 2
+</list>
+<list> absolutely
+	0: 1
+</list>
+<list> ac
+	0: 1
+</list>
+<list> access
+	0: 8
+</list>
+<list> accessed
+	0: 3
+</list>
+<list> accessories
+	2: 1
+</list>
+<list> accommodate
+	0: 1
+</list>
+<list> according
+	0: 1
+</list>
+<list> accordingly
+	0: 2
+</list>
+<list> accumulator
+	0: 2
+</list>
+<list> accustomed
+	0: 1
+</list>
+<list> acpizer
+	3: 1
+</list>
+<list> across
+	0: 1
+</list>
+<list> acting
+	0: 1
+</list>
+<list> activating
+	0: 2
+</list>
+<list> activity
+	0: 2
+</list>
+<list> actual
+	3: 1
+	0: 1
+</list>
+<list> actually
+	0: 2
+	1: 1
+</list>
+<list> adaptor
+	0: 1
+</list>
+<list> add
+	3: 10
+	0: 6
+	1: 2
+</list>
+<list> added
+	0: 2
+</list>
+<list> adding
+	0: 1
+</list>
+<list> addition
+	0: 3
+</list>
+<list> additional
+	0: 1
+</list>
+<list> addr
+	0: 4
+</list>
+<list> address
+	0: 57
+	3: 7
+</list>
+<list> addresses
+	0: 9
+	3: 3
+	1: 1
+</list>
+<list> adds
+	3: 2
+	0: 1
+</list>
+<list> adept
+	0: 1
+</list>
+<list> advanced
+	1: 1
+	0: 1
+</list>
+<list> after
+	0: 26
+	3: 2
+	1: 1
+</list>
+<list> again
+	0: 15
+	3: 2
+	1: 2
+</list>
+<list> against
+	0: 1
+</list>
+<list> ah
+	0: 11
+</list>
+<list> al
+	0: 18
+</list>
+<list> all
+	0: 19
+	3: 2
+	1: 2
+</list>
+<list> allocated
+	0: 2
+</list>
+<list> allocation
+	0: 1
+</list>
+<list> allow
+	0: 3
+</list>
+<list> almost
+	3: 1
+	0: 1
+</list>
+<list> along
+	0: 2
+	1: 1
+</list>
+<list> alotted
+	1: 1
+</list>
+<list> already
+	0: 3
+</list>
+<list> also
+	0: 40
+	1: 1
+</list>
+<list> altavista
+	1: 2
+</list>
+<list> alter
+	0: 2
+	1: 1
+</list>
+<list> alterations
+	0: 1
+</list>
+<list> although
+	0: 2
+</list>
+<list> always
+	0: 3
+	3: 1
+	1: 1
+</list>
+<list> among
+	1: 1
+</list>
+<list> an
+	0: 37
+	1: 2
+	3: 1
+</list>
+<list> analogy
+	0: 1
+</list>
+<list> and
+	0: 135
+	1: 23
+	3: 9
+</list>
+<list> animated
+	0: 1
+</list>
+<list> another
+	0: 16
+	3: 1
+	1: 1
+</list>
+<list> answer
+	0: 3
+</list>
+<list> any
+	0: 5
+	3: 1
+	1: 1
+</list>
+<list> anymore
+	0: 1
+</list>
+<list> anyone
+	1: 1
+</list>
+<list> anything
+	1: 3
+	0: 3
+</list>
+<list> anytime
+	0: 1
+</list>
+<list> anyway
+	0: 2
+</list>
+<list> anyways
+	0: 1
+</list>
+<list> anywhere
+	1: 1
+</list>
+<list> apologize
+	1: 1
+</list>
+<list> appear
+	0: 1
+</list>
+<list> appears
+	0: 2
+</list>
+<list> apple
+	0: 2
+</list>
+<list> applied
+	1: 1
+</list>
+<list> appropriate
+	0: 1
+</list>
+<list> appropriately
+	0: 3
+</list>
+<list> april
+	0: 1
+</list>
+<list> are
+	0: 106
+	1: 4
+	2: 2
+</list>
+<list> area
+	0: 1
+</list>
+<list> areas
+	0: 2
+</list>
+<list> aren
+	1: 1
+</list>
+<list> arisen
+	0: 1
+</list>
+<list> arising
+	0: 1
+</list>
+<list> arithmetic
+	0: 4
+</list>
+<list> around
+	0: 6
+	2: 1
+</list>
+<list> art
+	0: 1
+</list>
+<list> as
+	0: 55
+	2: 6
+	1: 4
+	3: 1
+</list>
+<list> ascii
+	0: 3
+	1: 2
+</list>
+<list> ask
+	0: 2
+	1: 1
+</list>
+<list> asked
+	0: 1
+</list>
+<list> asking
+	0: 2
+</list>
+<list> asks
+	0: 1
+</list>
+<list> asm
+	0: 1
+</list>
+<list> assembler
+	0: 2
+</list>
+<list> assembly
+	0: 13
+	1: 3
+	3: 1
+</list>
+<list> assume
+	0: 4
+	1: 2
+	3: 1
+</list>
+<list> assure
+	0: 1
+</list>
+<list> at
+	0: 55
+	3: 12
+	1: 12
+	2: 1
+</list>
+<list> attempt
+	1: 1
+</list>
+<list> attention
+	3: 1
+</list>
+<list> author
+	0: 1
+</list>
+<list> automatically
+	0: 1
+</list>
+<list> avoid
+	0: 1
+</list>
+<list> aware
+	0: 2
+</list>
+<list> ax
+	0: 72
+</list>
+<list> b
+	3: 2
+	0: 1
+</list>
+<list> b80000
+	0: 1
+</list>
+<list> b8a77a
+	0: 1
+</list>
+<list> b90000
+	0: 1
+</list>
+<list> b90005
+	0: 1
+</list>
+<list> b91f000000
+	1: 1
+</list>
+<list> baby
+	0: 1
+</list>
+<list> back
+	0: 6
+	1: 3
+	3: 1
+</list>
+<list> backup
+	0: 2
+	1: 1
+</list>
+<list> backups
+	0: 1
+</list>
+<list> backwards
+	0: 4
+</list>
+<list> bad
+	0: 5
+	2: 1
+</list>
+<list> badpass
+	1: 1
+</list>
+<list> bak
+	1: 1
+</list>
+<list> bandwidth
+	1: 1
+</list>
+<list> bare
+	0: 1
+</list>
+<list> barrier
+	0: 1
+</list>
+<list> base
+	0: 4
+	1: 1
+</list>
+<list> based
+	0: 15
+</list>
+<list> bases
+	3: 1
+</list>
+<list> basic
+	0: 4
+</list>
+<list> basically
+	0: 3
+</list>
+<list> basics
+	0: 1
+</list>
+<list> bb0000
+	0: 1
+</list>
+<list> bb0200
+	0: 1
+</list>
+<list> be
+	0: 100
+	1: 5
+	3: 1
+</list>
+<list> be0005
+	0: 1
+</list>
+<list> because
+	0: 7
+	1: 1
+</list>
+<list> become
+	0: 8
+</list>
+<list> becomes
+	0: 1
+</list>
+<list> becoming
+	0: 1
+</list>
+<list> been
+	0: 6
+</list>
+<list> beep
+	0: 8
+</list>
+<list> before
+	0: 14
+	1: 3
+	3: 1
+</list>
+<list> begin
+	0: 7
+	3: 3
+	1: 1
+</list>
+<list> beginner
+	0: 3
+</list>
+<list> beginners
+	1: 1
+</list>
+<list> beginning
+	0: 4
+</list>
+<list> begins
+	0: 1
+</list>
+<list> behind
+	1: 1
+</list>
+<list> being
+	1: 1
+	0: 1
+</list>
+<list> believe
+	3: 1
+</list>
+<list> below
+	0: 5
+	1: 2
+</list>
+<list> bet
+	3: 1
+</list>
+<list> beta
+	1: 17
+</list>
+<list> better
+	0: 3
+	2: 1
+</list>
+<list> between
+	0: 3
+	1: 1
+</list>
+<list> beyond
+	0: 1
+</list>
+<list> bf0010
+	0: 1
+</list>
+<list> bios
+	0: 1
+</list>
+<list> bit
+	0: 6
+	1: 3
+</list>
+<list> bitch
+	0: 2
+</list>
+<list> bits
+	0: 2
+</list>
+<list> black
+	0: 2
+</list>
+<list> blackboard
+	0: 6
+</list>
+<list> blackboards
+	0: 1
+</list>
+<list> blah
+	3: 2
+</list>
+<list> blank
+	0: 1
+</list>
+<list> blanked
+	0: 1
+</list>
+<list> blast
+	3: 1
+</list>
+<list> blinking
+	1: 1
+</list>
+<list> block
+	0: 11
+</list>
+<list> blocks
+	0: 2
+</list>
+<list> board
+	0: 3
+</list>
+<list> boards
+	0: 2
+</list>
+<list> boolean
+	3: 1
+</list>
+<list> booster
+	0: 2
+</list>
+<list> bored
+	0: 1
+</list>
+<list> bound
+	0: 1
+</list>
+<list> box
+	1: 2
+</list>
+<list> bp
+	0: 22
+	3: 1
+</list>
+<list> breakpoint
+	0: 4
+</list>
+<list> breakpoints
+	0: 5
+</list>
+<list> bring
+	1: 2
+</list>
+<list> brings
+	1: 1
+	0: 1
+</list>
+<list> brought
+	0: 1
+</list>
+<list> buil
+	1: 3
+</list>
+<list> build
+	1: 2
+</list>
+<list> bunch
+	0: 3
+</list>
+<list> but
+	0: 26
+	2: 1
+	1: 1
+</list>
+<list> bx
+	0: 63
+</list>
+<list> by
+	0: 30
+	3: 17
+	1: 4
+</list>
+<list> bypass
+	0: 4
+</list>
+<list> bypassed
+	0: 3
+</list>
+<list> byte
+	0: 23
+	3: 8
+</list>
+<list> bytes
+	0: 8
+</list>
+<list> c
+	3: 17
+	0: 6
+	1: 1
+</list>
+<list> c1e303
+	3: 1
+</list>
+<list> c1f803
+	3: 1
+</list>
+<list> c20400
+	1: 1
+</list>
+<list> c3
+	3: 1
+</list>
+<list> c6040600
+	3: 1
+</list>
+<list> c644246c00
+	1: 1
+</list>
+<list> cable
+	1: 1
+</list>
+<list> calculate
+	3: 1
+</list>
+<list> calculation
+	3: 1
+</list>
+<list> call
+	0: 68
+	3: 8
+	1: 4
+</list>
+<list> called
+	0: 9
+	3: 1
+</list>
+<list> callee
+	0: 1
+</list>
+<list> calling
+	0: 2
+</list>
+<list> calls
+	0: 11
+</list>
+<list> can
+	0: 49
+	1: 9
+	3: 4
+</list>
+<list> cannot
+	0: 6
+</list>
+<list> card
+	0: 2
+</list>
+<list> careful
+	0: 1
+</list>
+<list> carefully
+	0: 2
+</list>
+<list> carriage
+	0: 1
+</list>
+<list> carry
+	0: 17
+</list>
+<list> caruso
+	3: 1
+</list>
+<list> case
+	0: 17
+	3: 3
+	1: 1
+</list>
+<list> cases
+	0: 1
+</list>
+<list> cause
+	0: 3
+</list>
+<list> caused
+	0: 1
+</list>
+<list> causes
+	0: 1
+</list>
+<list> causing
+	0: 2
+</list>
+<list> cb
+	0: 1
+</list>
+<list> cbh
+	0: 1
+</list>
+<list> cc13h
+	0: 1
+</list>
+<list> cch
+	0: 2
+</list>
+<list> cd13h
+	0: 1
+</list>
+<list> cd21h
+	0: 1
+</list>
+<list> cdf1h
+	0: 1
+</list>
+<list> cdh
+	0: 3
+</list>
+<list> certain
+	0: 5
+</list>
+<list> certainly
+	2: 1
+</list>
+<list> cf
+	0: 5
+</list>
+<list> ch
+	0: 1
+</list>
+<list> challenge
+	0: 1
+</list>
+<list> change
+	0: 35
+	1: 6
+</list>
+<list> changed
+	0: 10
+	1: 1
+</list>
+<list> changes
+	0: 12
+	1: 4
+</list>
+<list> changing
+	0: 5
+	1: 2
+</list>
+<list> char
+	3: 6
+</list>
+<list> character
+	1: 3
+	0: 2
+</list>
+<list> characteristic
+	0: 1
+</list>
+<list> characters
+	1: 7
+</list>
+<list> charley
+	3: 1
+</list>
+<list> charlowera
+	3: 1
+</list>
+<list> chars
+	3: 1
+</list>
+<list> charupper
+	3: 1
+</list>
+<list> charuppera
+	3: 1
+</list>
+<list> check
+	0: 13
+	1: 2
+	3: 1
+</list>
+<list> checked
+	0: 1
+</list>
+<list> checking
+	3: 1
+	0: 1
+</list>
+<list> checks
+	0: 14
+</list>
+<list> checksum
+	0: 5
+</list>
+<list> child
+	0: 1
+</list>
+<list> choose
+	0: 1
+</list>
+<list> chore
+	0: 1
+</list>
+<list> chr
+	3: 2
+</list>
+<list> cl
+	3: 2
+	0: 2
+</list>
+<list> classroom
+	0: 1
+</list>
+<list> cld
+	0: 2
+</list>
+<list> clear
+	0: 2
+</list>
+<list> cleared
+	0: 1
+</list>
+<list> clicking
+	1: 1
+</list>
+<list> client
+	1: 15
+</list>
+<list> close
+	0: 1
+</list>
+<list> closed
+	1: 1
+</list>
+<list> cmp
+	0: 16
+	3: 5
+	1: 1
+</list>
+<list> cmps
+	0: 1
+</list>
+<list> cmpsb
+	0: 3
+</list>
+<list> code
+	0: 84
+	3: 10
+	1: 2
+</list>
+<list> codes
+	0: 6
+</list>
+<list> coding
+	0: 5
+</list>
+<list> colon
+	0: 3
+</list>
+<list> com
+	1: 4
+	3: 1
+	0: 1
+</list>
+<list> combinations
+	0: 1
+</list>
+<list> come
+	0: 9
+	3: 1
+</list>
+<list> comes
+	0: 4
+	1: 1
+</list>
+<list> comfortable
+	0: 1
+</list>
+<list> command
+	1: 4
+	0: 4
+	2: 1
+</list>
+<list> commands
+	0: 2
+</list>
+<list> comments
+	3: 1
+</list>
+<list> commercial
+	0: 1
+</list>
+<list> commitment
+	2: 1
+</list>
+<list> committed
+	2: 1
+</list>
+<list> commonly
+	0: 12
+</list>
+<list> communicate
+	2: 1
+</list>
+<list> comp
+	0: 2
+</list>
+<list> companies
+	0: 2
+</list>
+<list> company
+	0: 1
+</list>
+<list> compare
+	0: 10
+</list>
+<list> compared
+	0: 1
+</list>
+<list> compares
+	0: 3
+</list>
+<list> comparing
+	3: 1
+	0: 1
+</list>
+<list> comparison
+	0: 2
+</list>
+<list> compile
+	0: 1
+</list>
+<list> compiled
+	0: 1
+</list>
+<list> complete
+	0: 1
+</list>
+<list> completely
+	0: 2
+</list>
+<list> completion
+	0: 4
+</list>
+<list> complicated
+	0: 3
+</list>
+<list> components
+	0: 1
+</list>
+<list> compression
+	0: 1
+</list>
+<list> computer
+	0: 7
+</list>
+<list> computers
+	2: 2
+</list>
+<list> concept
+	1: 1
+</list>
+<list> concern
+	0: 1
+</list>
+<list> conclusion
+	0: 2
+</list>
+<list> condition
+	0: 1
+</list>
+<list> conditional
+	0: 7
+</list>
+<list> conflict
+	0: 1
+</list>
+<list> confused
+	0: 1
+</list>
+<list> congratulations
+	0: 1
+</list>
+<list> conjunction
+	0: 2
+</list>
+<list> consequential
+	0: 1
+</list>
+<list> consider
+	0: 3
+</list>
+<list> consideration
+	0: 1
+</list>
+<list> considered
+	0: 2
+</list>
+<list> cont1
+	0: 2
+</list>
+<list> contain
+	0: 7
+</list>
+<list> contained
+	0: 3
+</list>
+<list> containing
+	1: 1
+</list>
+<list> contains
+	0: 4
+	1: 1
+</list>
+<list> contents
+	0: 7
+</list>
+<list> continu
+	1: 2
+</list>
+<list> continue
+	0: 6
+	3: 3
+</list>
+<list> control
+	0: 3
+</list>
+<list> convenience
+	0: 1
+</list>
+<list> convert
+	0: 1
+</list>
+<list> cool
+	0: 4
+</list>
+<list> copied
+	0: 3
+</list>
+<list> copies
+	0: 5
+</list>
+<list> copy
+	0: 61
+	1: 4
+</list>
+<list> copying
+	0: 3
+	3: 1
+</list>
+<list> copyright
+	1: 1
+	0: 1
+</list>
+<list> core
+	3: 1
+</list>
+<list> corner
+	2: 1
+</list>
+<list> correct
+	3: 1
+	0: 1
+</list>
+<list> cost
+	0: 1
+</list>
+<list> could
+	0: 9
+	1: 2
+</list>
+<list> couldn
+	0: 1
+</list>
+<list> count
+	0: 1
+</list>
+<list> counting
+	0: 1
+</list>
+<list> course
+	0: 5
+</list>
+<list> cover
+	0: 1
+</list>
+<list> cpu
+	0: 15
+</list>
+<list> cr
+	0: 11
+</list>
+<list> crack
+	0: 9
+	3: 1
+</list>
+<list> cracked
+	0: 3
+	3: 1
+</list>
+<list> cracker
+	0: 5
+</list>
+<list> crackers
+	0: 1
+</list>
+<list> cracking
+	0: 64
+	3: 2
+	1: 1
+</list>
+<list> cracking4newbies
+	3: 1
+</list>
+<list> crash
+	0: 3
+</list>
+<list> crashes
+	0: 1
+</list>
+<list> crashtest
+	1: 1
+</list>
+<list> crc
+	0: 1
+</list>
+<list> create
+	0: 1
+</list>
+<list> creating
+	0: 1
+</list>
+<list> creation
+	0: 1
+</list>
+<list> creator
+	2: 1
+</list>
+<list> crk
+	0: 3
+</list>
+<list> cs
+	0: 15
+</list>
+<list> ctrl
+	1: 2
+</list>
+<list> current
+	1: 3
+	0: 3
+	3: 1
+</list>
+<list> currently
+	0: 1
+</list>
+<list> cursor
+	1: 3
+	0: 1
+</list>
+<list> custom
+	0: 1
+</list>
+<list> cut
+	3: 2
+	1: 1
+</list>
+<list> cw3220mt
+	3: 2
+</list>
+<list> cx
+	0: 26
+</list>
+<list> cy
+	0: 1
+</list>
+<list> cyborg
+	0: 4
+</list>
+<list> cyclic
+	0: 1
+</list>
+<list> cylinder
+	0: 1
+</list>
+<list> d
+	1: 18
+	3: 5
+	0: 5
+</list>
+<list> d1e0
+	0: 1
+</list>
+<list> damages
+	0: 1
+</list>
+<list> dasm
+	1: 5
+</list>
+<list> data
+	0: 23
+	1: 5
+	3: 1
+</list>
+<list> daughter
+	0: 1
+</list>
+<list> days
+	0: 1
+</list>
+<list> db
+	0: 16
+</list>
+<list> dead
+	1: 2
+</list>
+<list> deal
+	0: 1
+</list>
+<list> debug
+	0: 17
+</list>
+<list> debugger
+	0: 19
+	3: 2
+</list>
+<list> debugging
+	0: 4
+</list>
+<list> dec
+	0: 1
+</list>
+<list> decent
+	0: 2
+</list>
+<list> decide
+	0: 4
+</list>
+<list> decided
+	0: 1
+</list>
+<list> decode
+	1: 2
+</list>
+<list> decompresses
+	0: 1
+</list>
+<list> decompression
+	0: 1
+</list>
+<list> decrement
+	0: 4
+</list>
+<list> decremented
+	0: 1
+</list>
+<list> decryption
+	0: 2
+</list>
+<list> decryptions
+	0: 1
+</list>
+<list> deeper
+	0: 2
+</list>
+<list> default
+	0: 1
+</list>
+<list> defeat
+	0: 3
+</list>
+<list> defeated
+	0: 1
+</list>
+<list> definitely
+	0: 1
+</list>
+<list> delete
+	0: 1
+</list>
+<list> demands
+	0: 2
+	3: 1
+</list>
+<list> demonstrates
+	0: 2
+</list>
+<list> denotation
+	0: 1
+</list>
+<list> denote
+	0: 2
+</list>
+<list> depending
+	0: 1
+</list>
+<list> depth
+	1: 1
+	0: 1
+</list>
+<list> described
+	1: 1
+</list>
+<list> description
+	0: 1
+</list>
+<list> destination
+	0: 7
+</list>
+<list> detail
+	0: 2
+</list>
+<list> determine
+	1: 1
+	0: 1
+</list>
+<list> development
+	0: 2
+</list>
+<list> device
+	0: 1
+</list>
+<list> dh
+	0: 1
+</list>
+<list> di
+	0: 19
+</list>
+<list> did
+	0: 2
+</list>
+<list> didn
+	0: 2
+	1: 1
+</list>
+<list> die
+	0: 1
+</list>
+<list> difference
+	0: 2
+	1: 1
+</list>
+<list> differences
+	0: 1
+</list>
+<list> different
+	0: 15
+</list>
+<list> difficult
+	0: 9
+</list>
+<list> difficulty
+	0: 2
+</list>
+<list> digit
+	3: 6
+	0: 3
+</list>
+<list> digits
+	1: 1
+</list>
+<list> ding
+	3: 1
+</list>
+<list> direction
+	0: 7
+</list>
+<list> directions
+	0: 1
+</list>
+<list> directly
+	0: 1
+</list>
+<list> directory
+	1: 1
+</list>
+<list> disassemble
+	1: 1
+</list>
+<list> disassembler
+	1: 2
+	3: 1
+</list>
+<list> disclaimer
+	0: 1
+</list>
+<list> discovering
+	0: 1
+</list>
+<list> discretion
+	0: 1
+</list>
+<list> discuss
+	0: 1
+</list>
+<list> discussed
+	0: 3
+</list>
+<list> discussion
+	0: 1
+</list>
+<list> disk
+	0: 26
+</list>
+<list> diskcopy
+	0: 1
+</list>
+<list> diskette
+	0: 1
+</list>
+<list> disks
+	0: 2
+</list>
+<list> displacement
+	0: 6
+</list>
+<list> display
+	0: 2
+	1: 1
+</list>
+<list> displayed
+	0: 1
+</list>
+<list> distress
+	0: 1
+</list>
+<list> div
+	3: 1
+	0: 1
+</list>
+<list> divided
+	0: 1
+</list>
+<list> dl
+	0: 3
+</list>
+<list> dn
+	0: 2
+</list>
+<list> do
+	0: 41
+	1: 6
+	3: 1
+</list>
+<list> doc
+	0: 19
+	1: 1
+</list>
+<list> document
+	1: 3
+</list>
+<list> does
+	0: 17
+	3: 5
+	1: 1
+</list>
+<list> doesn
+	0: 4
+</list>
+<list> doing
+	0: 4
+</list>
+<list> don
+	0: 14
+	1: 3
+	3: 2
+	2: 1
+</list>
+<list> done
+	0: 7
+</list>
+<list> dong
+	3: 1
+</list>
+<list> dork
+	0: 1
+</list>
+<list> dos
+	0: 11
+</list>
+<list> double
+	1: 1
+	0: 1
+</list>
+<list> down
+	0: 22
+	1: 1
+</list>
+<list> downloader
+	3: 1
+</list>
+<list> downloadi
+	1: 2
+</list>
+<list> downloads
+	1: 1
+</list>
+<list> drive
+	0: 9
+</list>
+<list> dropping
+	1: 1
+</list>
+<list> ds
+	0: 31
+</list>
+<list> dsl
+	1: 1
+</list>
+<list> due
+	0: 2
+</list>
+<list> dummy
+	3: 1
+</list>
+<list> dump
+	0: 4
+</list>
+<list> dumping
+	0: 2
+</list>
+<list> dunno
+	3: 1
+</list>
+<list> dup
+	0: 2
+</list>
+<list> during
+	0: 5
+</list>
+<list> dw
+	0: 7
+</list>
+<list> dword
+	3: 7
+	1: 7
+	0: 7
+</list>
+<list> dx
+	0: 34
+</list>
+<list> dynamic
+	0: 2
+</list>
+<list> dynamically
+	0: 1
+</list>
+<list> e
+	3: 1
+</list>
+<list> e2f8
+	0: 1
+</list>
+<list> e80b550000
+	3: 1
+</list>
+<list> e80ca9ffff
+	1: 1
+</list>
+<list> e80f330000
+	3: 1
+</list>
+<list> e818aaffff
+	1: 1
+</list>
+<list> e86f300000
+	3: 1
+</list>
+<list> e8740e
+	0: 1
+</list>
+<list> e875300000
+	3: 1
+</list>
+<list> e8b8320000
+	3: 1
+</list>
+<list> e8bb46
+	0: 1
+</list>
+<list> e8e5320000
+	3: 1
+</list>
+<list> e9ef2a
+	0: 1
+</list>
+<list> each
+	0: 4
+</list>
+<list> easiest
+	1: 1
+</list>
+<list> easily
+	1: 1
+	0: 1
+</list>
+<list> easy
+	1: 1
+	0: 1
+</list>
+<list> eax
+	3: 34
+	1: 11
+</list>
+<list> eb
+	3: 8
+</list>
+<list> eb01
+	3: 1
+</list>
+<list> eb02
+	3: 1
+</list>
+<list> eb16
+	3: 1
+</list>
+<list> eb67
+	3: 1
+</list>
+<list> ebf6
+	0: 1
+</list>
+<list> ebp
+	3: 11
+</list>
+<list> ebx
+	3: 9
+</list>
+<list> ecx
+	3: 13
+	1: 8
+</list>
+<list> ed
+	3: 9
+	1: 1
+</list>
+<list> edi
+	3: 6
+	1: 3
+</list>
+<list> edit
+	1: 3
+</list>
+<list> editor
+	1: 2
+	0: 1
+</list>
+<list> educational
+	3: 1
+</list>
+<list> edx
+	3: 21
+	1: 5
+</list>
+<list> effectively
+	0: 1
+</list>
+<list> effort
+	0: 1
+</list>
+<list> efnet
+	1: 3
+</list>
+<list> eg
+	0: 7
+</list>
+<list> either
+	0: 5
+	3: 1
+</list>
+<list> ejection
+	0: 1
+</list>
+<list> eleven
+	1: 4
+</list>
+<list> elite
+	1: 4
+</list>
+<list> else
+	0: 3
+	3: 2
+	2: 1
+</list>
+<list> empire
+	0: 1
+</list>
+<list> encounter
+	0: 7
+</list>
+<list> encrypted
+	0: 1
+</list>
+<list> encryption
+	0: 1
+</list>
+<list> end
+	0: 4
+	3: 3
+	1: 1
+</list>
+<list> endcode
+	0: 1
+</list>
+<list> endorse
+	0: 1
+</list>
+<list> endp
+	0: 3
+</list>
+<list> ends
+	0: 2
+</list>
+<list> engineering
+	1: 2
+</list>
+<list> enjoy
+	3: 1
+</list>
+<list> enjoyed
+	3: 1
+</list>
+<list> enough
+	0: 4
+	3: 2
+</list>
+<list> enter
+	0: 27
+	3: 3
+	1: 3
+</list>
+<list> entered
+	0: 4
+</list>
+<list> entering
+	0: 2
+</list>
+<list> entire
+	1: 2
+	0: 2
+</list>
+<list> entry
+	0: 4
+</list>
+<list> eoln
+	0: 5
+</list>
+<list> eos
+	0: 2
+</list>
+<list> equ
+	0: 18
+</list>
+<list> equal
+	0: 13
+</list>
+<list> equivalent
+	0: 5
+</list>
+<list> equivalents
+	0: 2
+</list>
+<list> erase
+	1: 1
+</list>
+<list> err1
+	0: 2
+</list>
+<list> err2
+	0: 2
+</list>
+<list> err3
+	0: 2
+</list>
+<list> error
+	0: 13
+</list>
+<list> errors
+	0: 3
+</list>
+<list> es
+	0: 23
+</list>
+<list> esc
+	1: 2
+</list>
+<list> escape
+	0: 1
+</list>
+<list> esi
+	3: 10
+	1: 10
+</list>
+<list> esp
+	3: 6
+	1: 6
+</list>
+<list> establish
+	0: 3
+</list>
+<list> eta
+	0: 1
+</list>
+<list> etc
+	0: 6
+	3: 1
+</list>
+<list> even
+	0: 2
+	2: 1
+</list>
+<list> eventually
+	0: 1
+</list>
+<list> ever
+	0: 1
+</list>
+<list> every
+	0: 2
+</list>
+<list> everyone
+	3: 2
+	2: 1
+	1: 1
+</list>
+<list> everything
+	0: 1
+</list>
+<list> everytime
+	0: 3
+</list>
+<list> exactly
+	3: 1
+	1: 1
+	0: 1
+</list>
+<list> examine
+	0: 3
+</list>
+<list> example
+	0: 7
+	1: 3
+</list>
+<list> exceed
+	0: 1
+</list>
+<list> exe
+	1: 5
+	0: 1
+</list>
+<list> exe2bin
+	0: 1
+</list>
+<list> execute
+	0: 9
+</list>
+<list> executed
+	0: 2
+</list>
+<list> executes
+	0: 2
+</list>
+<list> execution
+	0: 2
+</list>
+<list> exist
+	0: 1
+</list>
+<list> exit
+	0: 19
+	1: 2
+</list>
+<list> exit1
+	0: 3
+</list>
+<list> exit2
+	0: 3
+</list>
+<list> exit3
+	0: 4
+</list>
+<list> exited
+	0: 2
+</list>
+<list> exiting
+	0: 1
+</list>
+<list> expected
+	1: 1
+</list>
+<list> expensive
+	0: 1
+</list>
+<list> experience
+	1: 1
+	0: 1
+</list>
+<list> experienced
+	0: 3
+</list>
+<list> explained
+	3: 1
+	0: 1
+</list>
+<list> explaintory
+	3: 1
+</list>
+<list> explanations
+	1: 1
+</list>
+<list> extensive
+	0: 1
+</list>
+<list> external
+	0: 1
+</list>
+<list> extra
+	1: 3
+	0: 3
+</list>
+<list> eyes
+	0: 1
+</list>
+<list> f
+	1: 1
+</list>
+<list> f1h
+	0: 7
+</list>
+<list> f2
+	1: 1
+</list>
+<list> f3
+	1: 5
+</list>
+<list> f4
+	1: 2
+</list>
+<list> f5
+	1: 1
+</list>
+<list> f7
+	1: 2
+</list>
+<list> f9
+	1: 3
+</list>
+<list> faced
+	0: 1
+</list>
+<list> fail
+	0: 1
+</list>
+<list> failed
+	3: 1
+	0: 1
+</list>
+<list> fairly
+	0: 1
+</list>
+<list> fall
+	1: 1
+</list>
+<list> famed
+	0: 2
+</list>
+<list> familiar
+	3: 1
+	1: 1
+	0: 1
+</list>
+<list> familiarize
+	0: 2
+</list>
+<list> fant0m
+	3: 1
+</list>
+<list> far
+	0: 11
+</list>
+<list> fascinating
+	0: 1
+</list>
+<list> fast
+	0: 1
+</list>
+<list> faster
+	0: 1
+</list>
+<list> favor
+	0: 1
+</list>
+<list> fc
+	0: 1
+</list>
+<list> features
+	0: 2
+</list>
+<list> feed
+	0: 1
+</list>
+<list> feel
+	0: 5
+</list>
+<list> female
+	2: 1
+</list>
+<list> few
+	0: 3
+</list>
+<list> ff
+	0: 1
+</list>
+<list> ff750c
+	3: 1
+</list>
+<list> fffffaa8
+	3: 1
+</list>
+<list> fffffeb0
+	3: 4
+</list>
+<list> ffffff00
+	3: 1
+</list>
+<list> ffffffff
+	3: 2
+	1: 1
+</list>
+<list> ffffh
+	0: 1
+</list>
+<list> ffh
+	0: 1
+</list>
+<list> fighting
+	0: 1
+</list>
+<list> file
+	0: 17
+	1: 4
+	2: 1
+</list>
+<list> files
+	0: 6
+	1: 1
+</list>
+<list> final
+	1: 1
+	0: 1
+</list>
+<list> finally
+	0: 2
+</list>
+<list> find
+	0: 16
+	1: 2
+	3: 1
+	2: 1
+</list>
+<list> finding
+	0: 2
+	3: 1
+</list>
+<list> finds
+	0: 1
+</list>
+<list> fine
+	0: 4
+</list>
+<list> finger
+	0: 2
+</list>
+<list> finish
+	0: 6
+</list>
+<list> finished
+	0: 5
+</list>
+<list> firewall
+	1: 1
+</list>
+<list> first
+	0: 26
+	1: 2
+</list>
+<list> fit
+	1: 1
+</list>
+<list> five
+	2: 1
+	0: 1
+</list>
+<list> fixed
+	0: 1
+</list>
+<list> flag
+	0: 19
+</list>
+<list> flags
+	0: 8
+</list>
+<list> floppies
+	0: 1
+</list>
+<list> focus
+	0: 1
+</list>
+<list> follow
+	0: 4
+</list>
+<list> followed
+	0: 1
+</list>
+<list> following
+	0: 5
+	3: 1
+	1: 1
+</list>
+<list> follows
+	0: 3
+</list>
+<list> foo
+	1: 1
+</list>
+<list> fooling
+	0: 2
+</list>
+<list> for
+	0: 79
+	1: 18
+	3: 6
+	2: 2
+</list>
+<list> force
+	0: 2
+</list>
+<list> forget
+	0: 1
+</list>
+<list> forgot
+	3: 1
+</list>
+<list> form
+	0: 4
+</list>
+<list> format
+	1: 2
+	0: 2
+</list>
+<list> formatted
+	0: 2
+</list>
+<list> forms
+	0: 2
+</list>
+<list> forward
+	0: 2
+	1: 1
+</list>
+<list> found
+	0: 4
+	3: 1
+</list>
+<list> four
+	0: 5
+</list>
+<list> frame
+	0: 3
+</list>
+<list> fravia
+	3: 1
+</list>
+<list> freeze
+	0: 2
+</list>
+<list> freezes
+	0: 4
+</list>
+<list> fret
+	0: 1
+</list>
+<list> from
+	0: 34
+	1: 10
+	3: 6
+</list>
+<list> front
+	0: 4
+</list>
+<list> frustration
+	0: 1
+</list>
+<list> ftpsearch
+	1: 2
+</list>
+<list> fuck
+	0: 3
+</list>
+<list> full
+	1: 1
+</list>
+<list> fun
+	0: 3
+</list>
+<list> function
+	0: 5
+</list>
+<list> functions
+	0: 5
+</list>
+<list> further
+	0: 2
+	1: 1
+</list>
+<list> future
+	2: 1
+</list>
+<list> g
+	0: 12
+</list>
+<list> game
+	0: 4
+</list>
+<list> games
+	0: 2
+</list>
+<list> ge
+	1: 1
+</list>
+<list> general
+	0: 4
+</list>
+<list> generally
+	3: 2
+</list>
+<list> generate
+	0: 1
+</list>
+<list> generators
+	3: 1
+</list>
+<list> get
+	0: 25
+	1: 4
+</list>
+<list> getdlgitemtexta
+	3: 2
+</list>
+<list> gets
+	1: 3
+	0: 2
+</list>
+<list> getting
+	1: 1
+	0: 1
+</list>
+<list> ghostrdr
+	3: 1
+</list>
+<list> gibberish
+	0: 1
+</list>
+<list> give
+	0: 3
+</list>
+<list> given
+	0: 3
+</list>
+<list> go
+	0: 12
+	1: 5
+	3: 3
+</list>
+<list> go0zegg
+	1: 1
+</list>
+<list> goes
+	0: 3
+	1: 1
+</list>
+<list> going
+	0: 6
+	2: 1
+</list>
+<list> gone
+	0: 1
+</list>
+<list> gonna
+	0: 1
+</list>
+<list> good
+	0: 6
+	3: 1
+	1: 1
+</list>
+<list> goodness
+	0: 1
+</list>
+<list> got
+	0: 6
+	3: 1
+</list>
+<list> gotta
+	0: 2
+</list>
+<list> gotten
+	0: 1
+</list>
+<list> graphics
+	0: 4
+	1: 1
+</list>
+<list> great
+	0: 1
+</list>
+<list> greater
+	0: 6
+	1: 1
+</list>
+<list> greet
+	3: 1
+</list>
+<list> greets
+	1: 1
+</list>
+<list> guards
+	0: 2
+</list>
+<list> guess
+	3: 1
+</list>
+<list> guide
+	1: 1
+</list>
+<list> gunnar
+	3: 1
+</list>
+<list> h
+	1: 1
+</list>
+<list> hacked
+	1: 4
+</list>
+<list> hacker
+	1: 2
+</list>
+<list> hacknap
+	1: 1
+</list>
+<list> had
+	1: 1
+	0: 1
+</list>
+<list> half
+	2: 1
+	0: 1
+</list>
+<list> handle
+	0: 1
+</list>
+<list> handy
+	0: 1
+</list>
+<list> hang
+	0: 1
+</list>
+<list> happen
+	0: 3
+</list>
+<list> happened
+	0: 1
+</list>
+<list> happening
+	0: 2
+</list>
+<list> happens
+	0: 8
+</list>
+<list> happy
+	1: 1
+</list>
+<list> hard
+	0: 5
+</list>
+<list> hardly
+	0: 1
+</list>
+<list> hardware
+	0: 2
+</list>
+<list> has
+	0: 10
+	3: 1
+</list>
+<list> have
+	0: 89
+	1: 3
+	2: 1
+</list>
+<list> having
+	1: 2
+	0: 1
+</list>
+<list> hd
+	1: 1
+</list>
+<list> he
+	0: 1
+</list>
+<list> head
+	0: 1
+</list>
+<list> headed
+	0: 2
+</list>
+<list> heap
+	0: 4
+</list>
+<list> hectic
+	0: 1
+</list>
+<list> held
+	0: 2
+</list>
+<list> hell
+	0: 1
+</list>
+<list> help
+	3: 1
+</list>
+<list> her
+	0: 1
+</list>
+<list> here
+	0: 14
+	3: 9
+	1: 8
+</list>
+<list> hex
+	1: 10
+	0: 3
+	3: 2
+</list>
+<list> hex2str
+	3: 1
+</list>
+<list> hex2string
+	3: 1
+</list>
+<list> hexadecimal
+	0: 1
+</list>
+<list> hey
+	0: 1
+</list>
+<list> hi
+	3: 1
+</list>
+<list> hidden
+	0: 1
+</list>
+<list> hiew
+	1: 9
+</list>
+<list> hiew630
+	1: 1
+</list>
+<list> high
+	0: 3
+</list>
+<list> higher
+	0: 2
+</list>
+<list> hmm
+	3: 5
+</list>
+<list> hmmmmmm
+	3: 1
+</list>
+<list> hold
+	0: 5
+</list>
+<list> holds
+	0: 2
+</list>
+<list> hope
+	0: 2
+	3: 1
+</list>
+<list> hours
+	0: 1
+</list>
+<list> how
+	0: 15
+	3: 8
+	1: 4
+</list>
+<list> however
+	0: 11
+	1: 1
+</list>
+<list> http
+	1: 5
+</list>
+<list> huge
+	0: 3
+</list>
+<list> hunt
+	0: 1
+</list>
+<list> i
+	0: 26
+	3: 22
+	1: 5
+	2: 2
+</list>
+<list> icon
+	0: 2
+</list>
+<list> icons
+	0: 2
+</list>
+<list> id
+	1: 6
+</list>
+<list> idea
+	0: 1
+</list>
+<list> ideal
+	0: 1
+</list>
+<list> identical
+	3: 1
+</list>
+<list> identification
+	0: 2
+</list>
+<list> identifier
+	3: 1
+</list>
+<list> identify
+	1: 1
+</list>
+<list> if
+	0: 108
+	1: 11
+	3: 8
+	2: 1
+</list>
+<list> illegal
+	0: 2
+</list>
+<list> illegally
+	0: 1
+</list>
+<list> image
+	1: 1
+</list>
+<list> imagination
+	0: 1
+</list>
+<list> immediately
+	0: 3
+	2: 1
+</list>
+<list> impede
+	0: 1
+</list>
+<list> important
+	1: 3
+	3: 2
+	0: 2
+</list>
+<list> improve
+	3: 1
+</list>
+<list> imul
+	3: 1
+</list>
+<list> in
+	0: 177
+	1: 26
+	3: 23
+</list>
+<list> inc
+	3: 5
+	0: 5
+	1: 3
+</list>
+<list> incidental
+	0: 1
+</list>
+<list> include
+	0: 2
+</list>
+<list> included
+	0: 2
+</list>
+<list> incomprehensible
+	2: 1
+</list>
+<list> inconsistencies
+	0: 1
+</list>
+<list> incorrect
+	0: 1
+</list>
+<list> incorrectly
+	0: 1
+</list>
+<list> increase
+	3: 1
+	0: 1
+</list>
+<list> increasing
+	0: 1
+</list>
+<list> increment
+	0: 2
+</list>
+<list> incremented
+	0: 1
+</list>
+<list> indentifier
+	0: 1
+</list>
+<list> index
+	0: 3
+</list>
+<list> indicate
+	0: 1
+</list>
+<list> indicates
+	0: 1
+</list>
+<list> indicating
+	1: 1
+</list>
+<list> industry
+	0: 1
+</list>
+<list> ineval
+	1: 1
+</list>
+<list> info
+	1: 4
+	0: 2
+</list>
+<list> information
+	0: 2
+	3: 1
+	1: 1
+</list>
+<list> informative
+	2: 1
+</list>
+<list> inhibition
+	0: 1
+</list>
+<list> init
+	0: 2
+</list>
+<list> initcode
+	0: 2
+</list>
+<list> initialization
+	0: 4
+</list>
+<list> input
+	0: 2
+</list>
+<list> insert
+	0: 1
+</list>
+<list> inside
+	3: 2
+	0: 2
+</list>
+<list> install
+	0: 1
+</list>
+<list> installation
+	0: 2
+</list>
+<list> instance
+	1: 1
+</list>
+<list> instances
+	0: 2
+</list>
+<list> instead
+	0: 7
+	1: 2
+</list>
+<list> instruction
+	0: 104
+</list>
+<list> instructions
+	0: 34
+	3: 1
+</list>
+<list> instructor
+	0: 1
+</list>
+<list> int
+	0: 85
+</list>
+<list> integer
+	1: 1
+	0: 1
+</list>
+<list> integers
+	0: 2
+</list>
+<list> intend
+	3: 1
+</list>
+<list> intended
+	1: 1
+</list>
+<list> intensively
+	0: 1
+</list>
+<list> interesting
+	3: 1
+	0: 1
+</list>
+<list> intermediate
+	0: 1
+</list>
+<list> internal
+	2: 1
+	0: 1
+</list>
+<list> internally
+	0: 1
+</list>
+<list> interpreted
+	0: 1
+</list>
+<list> interrupt
+	0: 30
+</list>
+<list> interrupts
+	0: 5
+</list>
+<list> intimate
+	0: 1
+</list>
+<list> into
+	0: 32
+	1: 5
+</list>
+<list> intro
+	0: 3
+</list>
+<list> introduce
+	0: 1
+</list>
+<list> introduction
+	0: 3
+	3: 1
+	1: 1
+</list>
+<list> introductory
+	0: 1
+</list>
+<list> intseg
+	0: 1
+</list>
+<list> intuitive
+	0: 2
+</list>
+<list> invalid
+	0: 1
+</list>
+<list> investments
+	0: 1
+</list>
+<list> invoke
+	0: 1
+</list>
+<list> involves
+	0: 1
+</list>
+<list> ion
+	1: 3
+</list>
+<list> iret
+	0: 2
+</list>
+<list> is
+	0: 201
+	1: 20
+	3: 18
+	2: 3
+</list>
+<list> isdn
+	1: 2
+</list>
+<list> isn
+	1: 1
+</list>
+<list> issue
+	1: 1
+</list>
+<list> it
+	0: 123
+	3: 15
+	1: 14
+	2: 1
+</list>
+<list> its
+	0: 19
+	1: 1
+</list>
+<list> itself
+	0: 9
+</list>
+<list> j
+	0: 2
+</list>
+<list> j0b
+	3: 1
+</list>
+<list> ja
+	0: 1
+</list>
+<list> jae
+	0: 1
+</list>
+<list> jane
+	0: 1
+</list>
+<list> jaw
+	1: 1
+</list>
+<list> jb
+	0: 3
+</list>
+<list> jbe
+	0: 1
+</list>
+<list> jc
+	0: 2
+</list>
+<list> jcxz
+	0: 1
+</list>
+<list> je
+	0: 3
+	3: 2
+</list>
+<list> jecxz
+	0: 1
+</list>
+<list> jg
+	3: 1
+	0: 1
+</list>
+<list> jge
+	3: 2
+	0: 1
+</list>
+<list> jl
+	0: 1
+</list>
+<list> jle
+	3: 1
+	0: 1
+</list>
+<list> jmp
+	0: 13
+	3: 4
+</list>
+<list> jna
+	0: 1
+</list>
+<list> jnae
+	0: 1
+</list>
+<list> jnb
+	0: 1
+</list>
+<list> jnc
+	0: 3
+</list>
+<list> jne
+	3: 1
+	1: 1
+	0: 1
+</list>
+<list> jng
+	0: 1
+</list>
+<list> jnge
+	0: 1
+</list>
+<list> jnl
+	0: 1
+</list>
+<list> jnle
+	0: 1
+</list>
+<list> jno
+	0: 1
+</list>
+<list> jnp
+	0: 1
+</list>
+<list> jns
+	0: 1
+</list>
+<list> jnz
+	0: 10
+</list>
+<list> jo
+	0: 1
+</list>
+<list> job
+	0: 1
+</list>
+<list> josephco
+	3: 1
+</list>
+<list> joystick
+	0: 1
+</list>
+<list> joysticks
+	0: 1
+</list>
+<list> jp
+	0: 1
+</list>
+<list> jpe
+	0: 1
+</list>
+<list> jpo
+	0: 1
+</list>
+<list> js
+	0: 1
+</list>
+<list> judgement
+	0: 1
+</list>
+<list> july
+	0: 1
+</list>
+<list> jump
+	0: 41
+	3: 8
+</list>
+<list> jumped
+	0: 1
+</list>
+<list> jumps
+	0: 10
+</list>
+<list> just
+	0: 34
+	3: 3
+	1: 3
+	2: 1
+</list>
+<list> jz
+	0: 10
+</list>
+<list> kairn
+	3: 1
+</list>
+<list> kbps
+	1: 3
+</list>
+<list> keep
+	0: 11
+	3: 2
+</list>
+<list> key
+	3: 14
+	0: 2
+</list>
+<list> keyboard
+	0: 1
+</list>
+<list> keygen
+	3: 3
+</list>
+<list> keyhex
+	3: 7
+</list>
+<list> keymaker
+	3: 2
+</list>
+<list> keys
+	0: 1
+</list>
+<list> keyword
+	0: 14
+</list>
+<list> keywords
+	0: 2
+</list>
+<list> kick
+	0: 2
+</list>
+<list> kicked
+	0: 1
+</list>
+<list> kicks
+	0: 1
+</list>
+<list> kind
+	0: 2
+	3: 1
+</list>
+<list> kinda
+	0: 1
+</list>
+<list> kindergarden
+	0: 1
+</list>
+<list> klagosong
+	3: 1
+</list>
+<list> know
+	0: 16
+	3: 3
+	2: 1
+	1: 1
+</list>
+<list> knowledge
+	0: 4
+	3: 2
+	1: 1
+</list>
+<list> known
+	0: 2
+</list>
+<list> kouger
+	3: 1
+</list>
+<list> kpbs
+	1: 1
+</list>
+<list> krazy
+	3: 1
+</list>
+<list> language
+	0: 15
+	2: 1
+</list>
+<list> languages
+	0: 4
+</list>
+<list> last
+	0: 3
+	1: 1
+</list>
+<list> later
+	0: 8
+</list>
+<list> latter
+	0: 2
+</list>
+<list> lazy
+	0: 1
+</list>
+<list> lds
+	0: 2
+</list>
+<list> lea
+	1: 6
+	3: 5
+	0: 2
+</list>
+<list> learn
+	0: 3
+	3: 1
+	1: 1
+</list>
+<list> learned
+	0: 2
+</list>
+<list> learning
+	0: 3
+</list>
+<list> leave
+	3: 1
+</list>
+<list> leddy
+	3: 1
+</list>
+<list> left
+	0: 4
+</list>
+<list> legality
+	0: 1
+</list>
+<list> lenght
+	0: 2
+</list>
+<list> length
+	3: 4
+	0: 3
+</list>
+<list> lengths
+	0: 1
+</list>
+<list> less
+	0: 8
+</list>
+<list> let
+	0: 11
+	3: 8
+</list>
+<list> lets
+	3: 1
+</list>
+<list> level
+	0: 13
+</list>
+<list> lf
+	0: 12
+</list>
+<list> liability
+	0: 1
+</list>
+<list> lies
+	0: 1
+</list>
+<list> like
+	0: 30
+	1: 5
+	3: 1
+</list>
+<list> likely
+	0: 9
+	1: 1
+</list>
+<list> limited
+	1: 1
+</list>
+<list> line
+	0: 8
+	1: 2
+</list>
+<list> lines
+	0: 2
+</list>
+<list> link
+	1: 2
+	0: 1
+</list>
+<list> list
+	0: 7
+</list>
+<list> listed
+	0: 2
+</list>
+<list> listening
+	1: 1
+</list>
+<list> listing
+	1: 2
+</list>
+<list> little
+	1: 1
+</list>
+<list> ll
+	1: 8
+	3: 4
+	0: 4
+</list>
+<list> load
+	0: 12
+	1: 2
+</list>
+<list> loaded
+	0: 2
+</list>
+<list> loader
+	0: 11
+</list>
+<list> loaders
+	0: 5
+</list>
+<list> loading
+	0: 1
+</list>
+<list> loads
+	1: 1
+	0: 1
+</list>
+<list> local
+	0: 1
+</list>
+<list> locate
+	1: 1
+</list>
+<list> located
+	0: 10
+	1: 1
+</list>
+<list> location
+	0: 22
+</list>
+<list> locations
+	0: 2
+</list>
+<list> lods
+	0: 3
+</list>
+<list> lodsb
+	0: 4
+</list>
+<list> lodsw
+	0: 3
+</list>
+<list> logic
+	2: 1
+	1: 1
+</list>
+<list> login
+	1: 2
+</list>
+<list> long
+	1: 1
+</list>
+<list> longer
+	1: 3
+</list>
+<list> longint
+	3: 1
+</list>
+<list> look
+	0: 8
+	1: 6
+	3: 2
+</list>
+<list> looked
+	0: 1
+</list>
+<list> looking
+	0: 2
+	3: 1
+	1: 1
+</list>
+<list> looks
+	0: 5
+	1: 1
+</list>
+<list> loop
+	0: 19
+	3: 4
+</list>
+<list> looping
+	0: 1
+</list>
+<list> loops
+	0: 1
+</list>
+<list> lost
+	0: 1
+</list>
+<list> lot
+	0: 2
+</list>
+<list> lots
+	0: 1
+</list>
+<list> lovers
+	3: 1
+</list>
+<list> low
+	0: 2
+</list>
+<list> lower
+	0: 1
+</list>
+<list> lu
+	1: 3
+</list>
+<list> luckily
+	0: 1
+</list>
+<list> lucky
+	0: 4
+</list>
+<list> ludde
+	1: 1
+</list>
+<list> lx
+	3: 1
+</list>
+<list> lycos
+	1: 2
+</list>
+<list> m
+	3: 2
+	2: 2
+	1: 1
+</list>
+<list> machine
+	0: 11
+</list>
+<list> mad
+	2: 1
+</list>
+<list> made
+	1: 2
+</list>
+<list> magic
+	1: 1
+</list>
+<list> main
+	0: 2
+</list>
+<list> mainly
+	1: 1
+</list>
+<list> make
+	0: 15
+	1: 7
+	3: 2
+	2: 1
+</list>
+<list> makes
+	0: 3
+</list>
+<list> making
+	3: 1
+	0: 1
+</list>
+<list> man
+	3: 1
+</list>
+<list> manual
+	0: 47
+	1: 1
+</list>
+<list> manually
+	0: 1
+</list>
+<list> many
+	0: 5
+	1: 1
+</list>
+<list> mark
+	1: 1
+</list>
+<list> mary
+	0: 1
+</list>
+<list> masm
+	0: 1
+</list>
+<list> match
+	0: 6
+	1: 1
+</list>
+<list> mathematical
+	0: 1
+</list>
+<list> matter
+	0: 2
+</list>
+<list> maximum
+	1: 3
+</list>
+<list> may
+	0: 13
+</list>
+<list> maybe
+	0: 5
+</list>
+<list> me
+	0: 3
+	3: 1
+</list>
+<list> mean
+	0: 5
+</list>
+<list> means
+	0: 9
+	1: 2
+</list>
+<list> meant
+	1: 2
+	0: 1
+</list>
+<list> meet
+	3: 1
+</list>
+<list> megs
+	0: 1
+</list>
+<list> memory
+	0: 55
+	2: 1
+</list>
+<list> mentally
+	0: 1
+</list>
+<list> mentioned
+	0: 3
+</list>
+<list> menu
+	0: 4
+</list>
+<list> merely
+	0: 1
+</list>
+<list> mess
+	0: 4
+	1: 1
+</list>
+<list> message
+	0: 4
+	2: 1
+	1: 1
+</list>
+<list> messing
+	0: 2
+</list>
+<list> method
+	0: 1
+</list>
+<list> methods
+	0: 1
+</list>
+<list> mexelite
+	3: 1
+</list>
+<list> might
+	0: 20
+	3: 1
+</list>
+<list> mind
+	3: 2
+	0: 2
+</list>
+<list> mine
+	3: 1
+</list>
+<list> minimum
+	0: 2
+</list>
+<list> minute
+	0: 1
+</list>
+<list> miserably
+	0: 1
+</list>
+<list> mistakes
+	2: 1
+</list>
+<list> misuse
+	0: 1
+</list>
+<list> mnemonic
+	0: 2
+</list>
+<list> mod
+	3: 1
+</list>
+<list> mode
+	1: 5
+	0: 3
+</list>
+<list> modify
+	1: 2
+</list>
+<list> modula
+	0: 1
+</list>
+<list> money
+	0: 1
+</list>
+<list> moral
+	0: 1
+</list>
+<list> more
+	0: 22
+	1: 1
+</list>
+<list> most
+	0: 20
+	1: 3
+</list>
+<list> mouse
+	0: 1
+</list>
+<list> mov
+	0: 108
+	3: 8
+	1: 6
+</list>
+<list> move
+	0: 8
+	1: 2
+</list>
+<list> moved
+	0: 2
+</list>
+<list> moves
+	0: 1
+</list>
+<list> moving
+	0: 2
+</list>
+<list> movs
+	0: 2
+</list>
+<list> movsb
+	0: 3
+</list>
+<list> movsw
+	0: 1
+</list>
+<list> movsx
+	3: 3
+</list>
+<list> much
+	0: 7
+</list>
+<list> mul
+	0: 1
+</list>
+<list> multiple
+	0: 5
+</list>
+<list> multiplies
+	3: 1
+</list>
+<list> multitude
+	0: 1
+</list>
+<list> music
+	0: 3
+</list>
+<list> must
+	0: 16
+	3: 2
+</list>
+<list> my
+	3: 5
+	1: 2
+	0: 1
+</list>
+<list> mystic
+	3: 1
+</list>
+<list> n
+	3: 1
+</list>
+<list> nag
+	3: 1
+</list>
+<list> name
+	3: 23
+	2: 1
+	0: 1
+</list>
+<list> names
+	0: 1
+</list>
+<list> nap
+	1: 4
+</list>
+<list> napste
+	1: 1
+</list>
+<list> napster
+	1: 26
+</list>
+<list> narrowed
+	0: 1
+</list>
+<list> native
+	2: 1
+</list>
+<list> nc
+	0: 1
+</list>
+<list> nconditional
+	3: 8
+</list>
+<list> near
+	0: 10
+</list>
+<list> neato
+	0: 1
+</list>
+<list> necessary
+	0: 3
+</list>
+<list> need
+	0: 7
+	3: 3
+	1: 1
+</list>
+<list> needed
+	0: 2
+</list>
+<list> negative
+	0: 3
+</list>
+<list> negligible
+	0: 1
+</list>
+<list> net
+	1: 2
+</list>
+<list> never
+	0: 2
+</list>
+<list> nevertheless
+	0: 1
+</list>
+<list> new
+	0: 12
+	1: 3
+</list>
+<list> newer
+	3: 1
+</list>
+<list> newint
+	0: 3
+</list>
+<list> newint1
+	0: 3
+</list>
+<list> newint2
+	0: 3
+</list>
+<list> next
+	0: 19
+	3: 3
+</list>
+<list> next1
+	0: 1
+</list>
+<list> next2
+	0: 2
+</list>
+<list> ng
+	1: 2
+	0: 1
+</list>
+<list> niabi
+	3: 1
+</list>
+<list> nick
+	1: 1
+</list>
+<list> no
+	0: 18
+	3: 2
+	2: 1
+</list>
+<list> nop
+	0: 5
+</list>
+<list> normal
+	0: 1
+</list>
+<list> normally
+	0: 2
+</list>
+<list> norton
+	0: 2
+</list>
+<list> not
+	0: 49
+	1: 4
+	3: 3
+	2: 1
+</list>
+<list> note
+	0: 19
+</list>
+<list> noted
+	0: 2
+</list>
+<list> notes
+	1: 1
+</list>
+<list> nothing
+	0: 1
+</list>
+<list> notice
+	0: 8
+	1: 4
+	3: 1
+</list>
+<list> noticed
+	1: 1
+	0: 1
+</list>
+<list> now
+	0: 47
+	1: 7
+	3: 5
+</list>
+<list> nowadays
+	0: 2
+</list>
+<list> null
+	0: 3
+</list>
+<list> num
+	1: 2
+</list>
+<list> number
+	0: 41
+	3: 10
+	1: 8
+</list>
+<list> numbers
+	0: 10
+</list>
+<list> nz
+	0: 1
+</list>
+<list> o
+	0: 5
+</list>
+<list> obj
+	1: 4
+	3: 1
+</list>
+<list> obstruct
+	0: 1
+</list>
+<list> obviously
+	0: 3
+</list>
+<list> occupation
+	0: 1
+</list>
+<list> occupied
+	0: 2
+</list>
+<list> occurred
+	0: 1
+</list>
+<list> occurs
+	1: 1
+	0: 1
+</list>
+<list> octavian
+	1: 1
+</list>
+<list> odd
+	0: 1
+</list>
+<list> odin
+	3: 1
+</list>
+<list> of
+	0: 201
+	1: 20
+	3: 9
+	2: 1
+</list>
+<list> ofcourse
+	3: 1
+</list>
+<list> off
+	0: 8
+	1: 2
+	3: 1
+</list>
+<list> offended
+	0: 1
+</list>
+<list> offset
+	0: 37
+	3: 4
+	1: 4
+</list>
+<list> often
+	0: 12
+</list>
+<list> ok
+	3: 3
+</list>
+<list> okay
+	0: 16
+</list>
+<list> okay1
+	0: 2
+</list>
+<list> okay2
+	0: 2
+</list>
+<list> old
+	0: 6
+	1: 1
+</list>
+<list> oldint
+	0: 4
+</list>
+<list> oldint1
+	0: 4
+</list>
+<list> oldint2
+	0: 5
+</list>
+<list> om
+	1: 1
+</list>
+<list> on
+	0: 33
+	1: 9
+	3: 3
+	2: 1
+</list>
+<list> once
+	0: 5
+	1: 2
+</list>
+<list> onditional
+	3: 8
+</list>
+<list> one
+	0: 23
+	2: 4
+	3: 3
+	1: 1
+</list>
+<list> only
+	0: 12
+	3: 2
+	1: 1
+</list>
+<list> onto
+	1: 6
+</list>
+<list> oops
+	0: 1
+</list>
+<list> opennap
+	1: 2
+</list>
+<list> operand
+	0: 3
+</list>
+<list> operands
+	0: 1
+</list>
+<list> operating
+	0: 1
+</list>
+<list> operation
+	0: 1
+</list>
+<list> operations
+	0: 3
+</list>
+<list> operators
+	0: 1
+</list>
+<list> option
+	0: 3
+</list>
+<list> optional
+	1: 1
+</list>
+<list> options
+	0: 2
+</list>
+<list> or
+	0: 82
+	3: 12
+	1: 7
+	2: 1
+</list>
+<list> orc
+	3: 1
+</list>
+<list> ord
+	3: 9
+</list>
+<list> order
+	3: 2
+	0: 1
+</list>
+<list> org
+	0: 2
+</list>
+<list> original
+	0: 6
+</list>
+<list> originally
+	1: 1
+</list>
+<list> other
+	0: 11
+	1: 2
+	2: 1
+</list>
+<list> others
+	1: 1
+</list>
+<list> otherwise
+	0: 2
+</list>
+<list> our
+	3: 4
+	1: 1
+	0: 1
+</list>
+<list> ours
+	3: 1
+</list>
+<list> out
+	0: 27
+	1: 2
+</list>
+<list> output
+	0: 1
+</list>
+<list> outward
+	1: 1
+</list>
+<list> over
+	0: 18
+	1: 2
+</list>
+<list> overcome
+	0: 1
+</list>
+<list> overflow
+	0: 3
+</list>
+<list> overlay
+	0: 16
+</list>
+<list> overlays
+	0: 7
+</list>
+<list> ovl
+	0: 1
+</list>
+<list> own
+	0: 7
+	3: 1
+</list>
+<list> p
+	0: 9
+</list>
+<list> package
+	0: 2
+	3: 1
+</list>
+<list> page
+	0: 36
+</list>
+<list> pain
+	3: 3
+</list>
+<list> pair
+	0: 3
+</list>
+<list> pairs
+	0: 1
+</list>
+<list> paper
+	0: 1
+</list>
+<list> para
+	0: 2
+</list>
+<list> paragraphs
+	0: 1
+</list>
+<list> param
+	0: 3
+</list>
+<list> param1
+	0: 2
+</list>
+<list> parameter
+	1: 3
+</list>
+<list> parameters
+	0: 1
+</list>
+<list> parity
+	0: 6
+</list>
+<list> part
+	1: 7
+	0: 3
+	3: 1
+</list>
+<list> parts
+	1: 1
+	0: 1
+</list>
+<list> pascal
+	3: 3
+	0: 3
+</list>
+<list> pass
+	0: 3
+</list>
+<list> passages
+	0: 1
+</list>
+<list> passed
+	1: 2
+</list>
+<list> password
+	1: 2
+</list>
+<list> past
+	0: 2
+</list>
+<list> patch
+	1: 2
+</list>
+<list> patching
+	3: 1
+</list>
+<list> patience
+	0: 2
+</list>
+<list> patient
+	0: 3
+</list>
+<list> patiently
+	0: 1
+</list>
+<list> patterns
+	0: 2
+</list>
+<list> pay
+	3: 1
+</list>
+<list> paycheck
+	2: 1
+</list>
+<list> people
+	0: 3
+	1: 2
+</list>
+<list> perfect
+	1: 1
+	0: 1
+</list>
+<list> perform
+	0: 2
+	1: 1
+</list>
+<list> performed
+	0: 6
+</list>
+<list> performing
+	0: 1
+</list>
+<list> permanent
+	0: 1
+</list>
+<list> personal
+	1: 1
+</list>
+<list> pf
+	0: 2
+</list>
+<list> pirate
+	0: 1
+</list>
+<list> pl
+	0: 1
+</list>
+<list> place
+	0: 4
+	1: 1
+</list>
+<list> placed
+	0: 1
+</list>
+<list> places
+	0: 2
+</list>
+<list> playing
+	1: 1
+	0: 1
+</list>
+<list> please
+	3: 3
+	0: 3
+</list>
+<list> plot
+	0: 1
+</list>
+<list> point
+	0: 22
+	3: 1
+</list>
+<list> pointed
+	0: 12
+</list>
+<list> pointer
+	0: 14
+</list>
+<list> pointers
+	0: 4
+</list>
+<list> pointing
+	0: 1
+</list>
+<list> points
+	0: 7
+</list>
+<list> pop
+	0: 32
+	3: 6
+	1: 2
+</list>
+<list> popped
+	0: 1
+</list>
+<list> pops
+	3: 1
+	0: 1
+</list>
+<list> port
+	1: 3
+</list>
+<list> ports
+	0: 1
+</list>
+<list> position
+	0: 2
+</list>
+<list> positive
+	0: 4
+</list>
+<list> possible
+	1: 4
+	3: 1
+	0: 1
+</list>
+<list> practice
+	0: 3
+</list>
+<list> pre
+	0: 1
+</list>
+<list> precautions
+	1: 1
+</list>
+<list> present
+	0: 1
+</list>
+<list> presents
+	0: 1
+</list>
+<list> press
+	1: 12
+	0: 3
+	3: 1
+</list>
+<list> pressing
+	1: 1
+</list>
+<list> pretend
+	0: 4
+</list>
+<list> pretty
+	3: 2
+	0: 1
+</list>
+<list> previous
+	0: 3
+</list>
+<list> previously
+	0: 2
+</list>
+<list> prices
+	0: 1
+</list>
+<list> primitive
+	0: 1
+</list>
+<list> print
+	0: 2
+</list>
+<list> probability
+	0: 2
+</list>
+<list> probably
+	0: 4
+	1: 1
+</list>
+<list> problem
+	0: 4
+</list>
+<list> problemo
+	0: 1
+</list>
+<list> problems
+	0: 2
+</list>
+<list> proc
+	0: 3
+</list>
+<list> procedural
+	0: 1
+</list>
+<list> procedure
+	0: 10
+</list>
+<list> procedures
+	0: 4
+</list>
+<list> proceed
+	0: 1
+</list>
+<list> proceeding
+	0: 3
+</list>
+<list> process
+	0: 3
+</list>
+<list> processes
+	0: 1
+</list>
+<list> professional
+	0: 1
+</list>
+<list> prog
+	0: 2
+</list>
+<list> program
+	0: 96
+	3: 6
+	1: 1
+</list>
+<list> programed
+	0: 1
+</list>
+<list> programmed
+	1: 1
+</list>
+<list> programmers
+	0: 1
+</list>
+<list> programming
+	0: 9
+</list>
+<list> programs
+	0: 18
+</list>
+<list> progresses
+	0: 1
+</list>
+<list> prompt
+	0: 3
+</list>
+<list> prompting
+	0: 1
+</list>
+<list> prompts
+	0: 1
+</list>
+<list> pronounce
+	0: 3
+</list>
+<list> pronunciation
+	0: 1
+</list>
+<list> proper
+	0: 2
+</list>
+<list> properly
+	0: 1
+</list>
+<list> protected
+	0: 7
+</list>
+<list> protection
+	0: 43
+	3: 1
+</list>
+<list> protections
+	0: 14
+</list>
+<list> prove
+	0: 1
+</list>
+<list> provide
+	0: 1
+</list>
+<list> provided
+	3: 1
+</list>
+<list> provides
+	0: 1
+</list>
+<list> psa
+	3: 1
+</list>
+<list> ptr
+	0: 17
+	3: 14
+	1: 7
+</list>
+<list> purpose
+	0: 3
+</list>
+<list> push
+	1: 26
+	0: 22
+	3: 13
+</list>
+<list> pushed
+	1: 4
+	3: 1
+</list>
+<list> put
+	0: 2
+	3: 1
+</list>
+<list> putting
+	0: 3
+</list>
+<list> puzzle
+	0: 1
+</list>
+<list> q
+	0: 1
+</list>
+<list> qapla
+	3: 1
+</list>
+<list> query
+	1: 1
+</list>
+<list> questions
+	0: 1
+</list>
+<list> queue
+	1: 1
+</list>
+<list> quick
+	1: 1
+</list>
+<list> quicker
+	0: 1
+</list>
+<list> quickly
+	0: 4
+</list>
+<list> quite
+	0: 2
+	3: 1
+</list>
+<list> r
+	0: 3
+	1: 1
+</list>
+<list> rad
+	0: 1
+</list>
+<list> ram
+	0: 1
+</list>
+<list> random
+	3: 1
+</list>
+<list> randomly
+	0: 1
+</list>
+<list> range
+	0: 2
+</list>
+<list> rare
+	0: 1
+</list>
+<list> rarely
+	0: 4
+</list>
+<list> rather
+	0: 3
+</list>
+<list> rax
+	0: 1
+</list>
+<list> razzi
+	3: 1
+</list>
+<list> rcs
+	0: 1
+</list>
+<list> re
+	0: 4
+	1: 3
+	3: 1
+</list>
+<list> reach
+	0: 1
+</list>
+<list> reaches
+	0: 2
+</list>
+<list> reacts
+	0: 1
+</list>
+<list> read
+	0: 14
+	1: 3
+	3: 2
+</list>
+<list> reading
+	0: 4
+	3: 1
+</list>
+<list> readln
+	3: 2
+</list>
+<list> reads
+	0: 3
+</list>
+<list> ready
+	0: 1
+</list>
+<list> real
+	0: 1
+</list>
+<list> realize
+	0: 2
+</list>
+<list> realizing
+	0: 1
+</list>
+<list> reallocate
+	0: 1
+</list>
+<list> reallocates
+	0: 1
+</list>
+<list> really
+	0: 3
+</list>
+<list> reason
+	0: 1
+</list>
+<list> reasons
+	2: 1
+</list>
+<list> rebels
+	3: 1
+</list>
+<list> recent
+	0: 1
+</list>
+<list> recognize
+	0: 2
+</list>
+<list> recorded
+	0: 1
+</list>
+<list> redirection
+	0: 1
+</list>
+<list> redundency
+	0: 1
+</list>
+<list> reenter
+	0: 1
+</list>
+<list> ref
+	1: 5
+	3: 1
+</list>
+<list> refer
+	0: 1
+</list>
+<list> reference
+	3: 5
+	2: 1
+	1: 1
+</list>
+<list> referenced
+	3: 9
+	1: 1
+</list>
+<list> referred
+	1: 1
+</list>
+<list> refers
+	0: 2
+</list>
+<list> refs
+	1: 1
+</list>
+<list> reg
+	3: 5
+</list>
+<list> regardless
+	0: 3
+</list>
+<list> register
+	0: 40
+</list>
+<list> registers
+	0: 28
+</list>
+<list> registration
+	3: 7
+</list>
+<list> release
+	1: 3
+	0: 2
+</list>
+<list> released
+	1: 1
+</list>
+<list> remain
+	0: 1
+</list>
+<list> remember
+	0: 12
+	3: 2
+	1: 2
+</list>
+<list> remembered
+	0: 1
+</list>
+<list> removing
+	0: 2
+</list>
+<list> rep
+	0: 9
+</list>
+<list> repe
+	0: 1
+</list>
+<list> repeat
+	3: 1
+	0: 1
+</list>
+<list> repeated
+	0: 1
+</list>
+<list> repeats
+	0: 1
+</list>
+<list> replace
+	0: 4
+</list>
+<list> replaced
+	0: 2
+</list>
+<list> replaces
+	0: 2
+</list>
+<list> represented
+	1: 1
+</list>
+<list> reprogrammed
+	0: 1
+</list>
+<list> reprogramming
+	0: 1
+</list>
+<list> reprograms
+	0: 1
+</list>
+<list> repz
+	1: 1
+</list>
+<list> requests
+	1: 1
+</list>
+<list> required
+	1: 1
+</list>
+<list> requires
+	0: 1
+</list>
+<list> resemble
+	0: 1
+</list>
+<list> resident
+	0: 1
+</list>
+<list> resort
+	0: 1
+</list>
+<list> respectively
+	0: 1
+</list>
+<list> responsibility
+	3: 1
+</list>
+<list> rest
+	0: 2
+	3: 1
+</list>
+<list> restart
+	0: 4
+</list>
+<list> restarting
+	0: 1
+</list>
+<list> restore
+	0: 6
+</list>
+<list> result
+	3: 2
+</list>
+<list> resulted
+	0: 1
+</list>
+<list> resulting
+	0: 1
+</list>
+<list> ret
+	3: 1
+	1: 1
+</list>
+<list> retf
+	0: 4
+</list>
+<list> retn
+	0: 1
+</list>
+<list> retrace
+	0: 2
+</list>
+<list> retracing
+	0: 1
+</list>
+<list> return
+	0: 14
+</list>
+<list> returned
+	0: 4
+</list>
+<list> returning
+	0: 2
+</list>
+<list> returns
+	0: 1
+</list>
+<list> reveals
+	0: 2
+</list>
+<list> reverse
+	1: 2
+</list>
+<list> rf
+	0: 1
+</list>
+<list> rid
+	0: 2
+</list>
+<list> riddler
+	3: 1
+</list>
+<list> ridiculous
+	0: 1
+</list>
+<list> right
+	0: 8
+	1: 1
+</list>
+<list> rights
+	0: 1
+</list>
+<list> rioter
+	3: 1
+</list>
+<list> rip
+	0: 2
+</list>
+<list> room
+	0: 1
+</list>
+<list> routine
+	3: 4
+	0: 1
+</list>
+<list> routines
+	3: 1
+	0: 1
+</list>
+<list> rules
+	0: 2
+</list>
+<list> run
+	0: 16
+	3: 1
+</list>
+<list> running
+	1: 3
+	0: 2
+</list>
+<list> runs
+	0: 2
+</list>
+<list> s
+	1: 32
+	0: 32
+	3: 19
+</list>
+<list> said
+	0: 3
+</list>
+<list> same
+	0: 17
+</list>
+<list> sar
+	3: 2
+</list>
+<list> savage
+	0: 1
+</list>
+<list> save
+	0: 8
+	1: 3
+	3: 1
+</list>
+<list> saved
+	1: 1
+	0: 1
+</list>
+<list> say
+	0: 5
+</list>
+<list> says
+	0: 2
+</list>
+<list> scanned
+	0: 1
+</list>
+<list> scans
+	0: 1
+</list>
+<list> scheme
+	0: 2
+</list>
+<list> schemes
+	0: 8
+</list>
+<list> scope
+	0: 1
+</list>
+<list> screen
+	0: 11
+	3: 1
+</list>
+<list> screens
+	0: 1
+</list>
+<list> scripts
+	0: 2
+</list>
+<list> search
+	0: 6
+	1: 4
+</list>
+<list> searching
+	1: 1
+</list>
+<list> second
+	0: 2
+</list>
+<list> section
+	0: 2
+</list>
+<list> sections
+	0: 1
+</list>
+<list> sector
+	0: 9
+</list>
+<list> sectors
+	0: 3
+</list>
+<list> see
+	0: 42
+	1: 6
+	3: 2
+</list>
+<list> seeing
+	0: 1
+</list>
+<list> seems
+	0: 1
+</list>
+<list> seen
+	1: 1
+	0: 1
+</list>
+<list> seg
+	0: 7
+</list>
+<list> segment
+	0: 44
+</list>
+<list> segments
+	0: 4
+</list>
+<list> select
+	0: 4
+	1: 2
+</list>
+<list> selecting
+	1: 1
+	0: 1
+</list>
+<list> self
+	3: 1
+</list>
+<list> sends
+	1: 1
+</list>
+<list> sent
+	1: 1
+</list>
+<list> sequence
+	0: 3
+</list>
+<list> sequences
+	0: 1
+</list>
+<list> serial
+	3: 6
+</list>
+<list> serialnum
+	3: 4
+</list>
+<list> serious
+	0: 2
+</list>
+<list> server
+	1: 6
+</list>
+<list> set
+	0: 14
+	3: 1
+</list>
+<list> sets
+	0: 1
+</list>
+<list> settle
+	1: 1
+	0: 1
+</list>
+<list> several
+	0: 2
+</list>
+<list> sexually
+	0: 1
+</list>
+<list> sf
+	0: 6
+</list>
+<list> shall
+	0: 3
+</list>
+<list> she
+	0: 5
+</list>
+<list> shelled
+	3: 1
+</list>
+<list> shit
+	0: 1
+</list>
+<list> shl
+	3: 4
+	0: 1
+</list>
+<list> shortcuts
+	0: 1
+</list>
+<list> shortly
+	0: 1
+</list>
+<list> should
+	0: 21
+</list>
+<list> shoves
+	0: 1
+</list>
+<list> show
+	1: 1
+</list>
+<list> shr
+	3: 5
+	0: 4
+</list>
+<list> si
+	0: 24
+</list>
+<list> sice
+	3: 1
+</list>
+<list> side
+	0: 1
+</list>
+<list> sierra
+	0: 1
+</list>
+<list> sign
+	0: 6
+</list>
+<list> signal
+	0: 1
+</list>
+<list> signed
+	0: 5
+</list>
+<list> significant
+	0: 3
+</list>
+<list> signing
+	3: 1
+</list>
+<list> similar
+	0: 6
+</list>
+<list> simple
+	0: 8
+	1: 2
+	3: 1
+</list>
+<list> since
+	0: 15
+	1: 1
+</list>
+<list> single
+	0: 6
+</list>
+<list> situation
+	0: 11
+</list>
+<list> situations
+	0: 5
+</list>
+<list> size
+	0: 1
+</list>
+<list> sizes
+	0: 1
+</list>
+<list> skills
+	3: 1
+</list>
+<list> skip
+	0: 5
+</list>
+<list> skipping
+	0: 3
+</list>
+<list> slightly
+	1: 1
+</list>
+<list> slow
+	0: 2
+</list>
+<list> slowing
+	0: 1
+</list>
+<list> slowly
+	0: 1
+</list>
+<list> small
+	0: 2
+</list>
+<list> smallest
+	2: 1
+</list>
+<list> so
+	0: 35
+	1: 4
+	3: 1
+</list>
+<list> soft
+	3: 1
+</list>
+<list> softice
+	3: 2
+</list>
+<list> software
+	0: 18
+	1: 2
+</list>
+<list> solutions
+	0: 1
+</list>
+<list> solve
+	0: 1
+</list>
+<list> some
+	0: 31
+	3: 2
+	1: 2
+</list>
+<list> somehow
+	0: 1
+</list>
+<list> someone
+	1: 1
+</list>
+<list> something
+	0: 19
+	1: 3
+</list>
+<list> sometime
+	0: 1
+</list>
+<list> sometimes
+	0: 8
+</list>
+<list> somewhere
+	0: 6
+	1: 2
+</list>
+<list> soon
+	2: 2
+</list>
+<list> sorry
+	3: 1
+</list>
+<list> sort
+	1: 1
+	0: 1
+</list>
+<list> sorts
+	1: 1
+</list>
+<list> sound
+	0: 3
+</list>
+<list> sounds
+	0: 1
+</list>
+<list> source
+	0: 11
+	3: 1
+</list>
+<list> sourceforge
+	1: 1
+</list>
+<list> sp
+	0: 6
+</list>
+<list> spaces
+	3: 1
+	0: 1
+</list>
+<list> special
+	0: 3
+	3: 1
+</list>
+<list> specific
+	0: 3
+</list>
+<list> specified
+	0: 5
+</list>
+<list> specifies
+	1: 1
+	0: 1
+</list>
+<list> specify
+	0: 1
+</list>
+<list> spend
+	0: 1
+</list>
+<list> spending
+	2: 1
+</list>
+<list> split
+	0: 1
+</list>
+<list> ss
+	0: 3
+</list>
+<list> stack
+	0: 11
+	1: 6
+</list>
+<list> stage
+	0: 1
+</list>
+<list> standard
+	0: 2
+</list>
+<list> start
+	0: 19
+	1: 2
+</list>
+<list> started
+	0: 1
+</list>
+<list> starts
+	3: 1
+	1: 1
+	0: 1
+</list>
+<list> stated
+	0: 2
+</list>
+<list> statement
+	0: 1
+</list>
+<list> status
+	0: 4
+</list>
+<list> stay
+	0: 2
+</list>
+<list> step
+	0: 7
+</list>
+<list> stepping
+	0: 3
+</list>
+<list> steps
+	0: 1
+</list>
+<list> ster
+	1: 3
+</list>
+<list> stick
+	0: 4
+</list>
+<list> still
+	0: 4
+	3: 1
+	1: 1
+</list>
+<list> stop
+	0: 1
+</list>
+<list> stops
+	0: 1
+</list>
+<list> storage
+	0: 1
+</list>
+<list> store
+	0: 8
+</list>
+<list> stored
+	0: 6
+</list>
+<list> stores
+	0: 2
+</list>
+<list> stos
+	0: 3
+</list>
+<list> stosb
+	0: 4
+	1: 1
+</list>
+<list> stosd
+	1: 1
+</list>
+<list> stosw
+	0: 2
+	1: 1
+</list>
+<list> straighten
+	0: 1
+</list>
+<list> strcmp
+	3: 1
+</list>
+<list> string
+	1: 22
+	0: 19
+	3: 2
+</list>
+<list> stringdata
+	1: 4
+	3: 1
+</list>
+<list> strings
+	0: 9
+</list>
+<list> strlen
+	3: 1
+</list>
+<list> stuck
+	0: 1
+</list>
+<list> students
+	0: 4
+</list>
+<list> stuff
+	0: 2
+</list>
+<list> sub
+	0: 2
+	1: 1
+</list>
+<list> subroutine
+	0: 1
+</list>
+<list> subroutines
+	0: 1
+</list>
+<list> subtracted
+	0: 1
+</list>
+<list> subtraction
+	0: 2
+</list>
+<list> subtracts
+	0: 1
+</list>
+<list> such
+	0: 16
+</list>
+<list> sufficient
+	0: 1
+</list>
+<list> suggest
+	0: 2
+</list>
+<list> suggestions
+	0: 1
+</list>
+<list> suggests
+	0: 1
+</list>
+<list> suitable
+	0: 1
+</list>
+<list> suppose
+	0: 2
+</list>
+<list> supposed
+	0: 1
+</list>
+<list> sure
+	0: 12
+	1: 5
+	3: 1
+</list>
+<list> surrounding
+	0: 1
+</list>
+<list> suspected
+	0: 1
+</list>
+<list> sux
+	3: 1
+</list>
+<list> switching
+	1: 1
+</list>
+<list> synonymous
+	0: 1
+</list>
+<list> system
+	0: 2
+</list>
+<list> systematically
+	0: 1
+</list>
+<list> systems
+	0: 1
+</list>
+<list> t
+	0: 36
+	1: 6
+	3: 2
+	2: 1
+</list>
+<list> t1
+	1: 1
+</list>
+<list> t3
+	1: 1
+</list>
+<list> table
+	0: 1
+</list>
+<list> tags
+	1: 1
+</list>
+<list> take
+	0: 12
+	3: 2
+	1: 1
+</list>
+<list> takes
+	0: 3
+	3: 1
+	1: 1
+</list>
+<list> talk
+	0: 3
+</list>
+<list> talking
+	0: 1
+</list>
+<list> tantrum
+	1: 1
+</list>
+<list> teach
+	3: 1
+</list>
+<list> teacher
+	0: 4
+</list>
+<list> technical
+	1: 1
+</list>
+<list> techniques
+	1: 1
+</list>
+<list> tedious
+	0: 1
+</list>
+<list> teknap
+	1: 1
+</list>
+<list> tell
+	0: 5
+	3: 1
+	2: 1
+</list>
+<list> tells
+	0: 8
+</list>
+<list> temporary
+	0: 1
+</list>
+<list> teraphy
+	3: 1
+</list>
+<list> terminate
+	0: 1
+</list>
+<list> terminated
+	0: 3
+</list>
+<list> test
+	3: 2
+</list>
+<list> text
+	0: 3
+	1: 2
+</list>
+<list> textfield
+	1: 1
+</list>
+<list> textfile
+	1: 1
+</list>
+<list> than
+	0: 7
+	1: 2
+	3: 1
+</list>
+<list> thank
+	0: 1
+</list>
+<list> that
+	0: 145
+	1: 19
+	3: 8
+</list>
+<list> the
+	0: 836
+	1: 70
+	3: 46
+	2: 6
+</list>
+<list> their
+	0: 12
+	1: 2
+</list>
+<list> them
+	0: 10
+	1: 2
+	3: 1
+</list>
+<list> then
+	0: 62
+	3: 4
+	2: 1
+	1: 1
+</list>
+<list> thepharao
+	3: 1
+</list>
+<list> there
+	0: 42
+	1: 2
+	3: 1
+</list>
+<list> therefore
+	0: 5
+</list>
+<list> these
+	0: 34
+</list>
+<list> they
+	0: 21
+	1: 1
+</list>
+<list> thing
+	0: 6
+	3: 1
+</list>
+<list> things
+	0: 8
+</list>
+<list> think
+	0: 1
+</list>
+<list> thinking
+	0: 5
+</list>
+<list> thirteen
+	0: 1
+</list>
+<list> this
+	0: 144
+	1: 25
+	3: 23
+</list>
+<list> those
+	1: 3
+	0: 3
+</list>
+<list> three
+	1: 2
+	0: 2
+</list>
+<list> through
+	0: 18
+	1: 1
+</list>
+<list> thrown
+	0: 1
+</list>
+<list> time
+	0: 16
+	3: 2
+</list>
+<list> times
+	0: 5
+</list>
+<list> tip
+	0: 1
+</list>
+<list> tips
+	0: 1
+</list>
+<list> tm
+	3: 1
+</list>
+<list> to
+	0: 361
+	1: 54
+	3: 26
+	2: 5
+</list>
+<list> too
+	0: 7
+</list>
+<list> tools
+	3: 1
+	1: 1
+	0: 1
+</list>
+<list> top
+	1: 2
+	2: 1
+</list>
+<list> topic
+	0: 1
+</list>
+<list> touch
+	0: 1
+</list>
+<list> tough
+	1: 1
+	0: 1
+</list>
+<list> towards
+	0: 1
+</list>
+<list> trace
+	0: 31
+	1: 1
+</list>
+<list> traced
+	0: 5
+</list>
+<list> traces
+	0: 1
+</list>
+<list> tracing
+	0: 26
+	3: 1
+</list>
+<list> track
+	0: 1
+</list>
+<list> transfer
+	1: 3
+	0: 1
+</list>
+<list> transfers
+	1: 1
+	0: 1
+</list>
+<list> trick
+	0: 1
+</list>
+<list> true
+	0: 2
+</list>
+<list> trust
+	3: 1
+	0: 1
+</list>
+<list> try
+	0: 12
+	1: 1
+</list>
+<list> trying
+	0: 2
+	3: 1
+</list>
+<list> tsr
+	0: 4
+</list>
+<list> turbo
+	3: 3
+	0: 1
+</list>
+<list> turning
+	0: 1
+</list>
+<list> turns
+	3: 1
+	0: 1
+</list>
+<list> tutorial
+	3: 3
+	1: 3
+</list>
+<list> twenty
+	1: 4
+</list>
+<list> two
+	0: 11
+	1: 2
+</list>
+<list> txt
+	1: 2
+</list>
+<list> type
+	0: 30
+	1: 4
+	3: 2
+</list>
+<list> typed
+	0: 2
+</list>
+<list> types
+	0: 2
+</list>
+<list> typing
+	0: 4
+</list>
+<list> u
+	3: 12
+	0: 1
+</list>
+<list> unassemble
+	0: 2
+</list>
+<list> unclear
+	0: 1
+</list>
+<list> uncompressed
+	0: 1
+</list>
+<list> uncover
+	0: 1
+</list>
+<list> understand
+	3: 1
+	1: 1
+</list>
+<list> understands
+	2: 1
+</list>
+<list> unencrypted
+	0: 1
+</list>
+<list> unfortunately
+	0: 1
+</list>
+<list> unique
+	0: 1
+</list>
+<list> unknown
+	1: 1
+</list>
+<list> unless
+	0: 1
+</list>
+<list> unlike
+	0: 3
+</list>
+<list> unsigned
+	0: 4
+</list>
+<list> until
+	0: 13
+	3: 1
+	1: 1
+</list>
+<list> up
+	0: 38
+	1: 9
+</list>
+<list> upcase
+	3: 2
+</list>
+<list> updated
+	1: 1
+</list>
+<list> uploading
+	1: 2
+</list>
+<list> upon
+	0: 5
+</list>
+<list> upper
+	3: 2
+</list>
+<list> us
+	3: 2
+	0: 1
+</list>
+<list> usable
+	0: 1
+</list>
+<list> usage
+	0: 3
+	3: 1
+</list>
+<list> use
+	0: 40
+	1: 3
+	3: 2
+</list>
+<list> used
+	0: 26
+	2: 1
+</list>
+<list> useless
+	3: 1
+</list>
+<list> user
+	3: 8
+	0: 2
+</list>
+<list> user32
+	3: 3
+</list>
+<list> username
+	1: 1
+</list>
+<list> users
+	1: 4
+	0: 1
+</list>
+<list> uses
+	0: 8
+</list>
+<list> using
+	0: 17
+	1: 5
+</list>
+<list> usually
+	0: 8
+	1: 1
+</list>
+<list> utilities
+	0: 2
+</list>
+<list> utilizes
+	0: 1
+</list>
+<list> v
+	1: 2
+</list>
+<list> v0
+	1: 4
+</list>
+<list> v1
+	3: 3
+	1: 1
+	0: 1
+</list>
+<list> v2
+	1: 15
+</list>
+<list> v3
+	1: 4
+</list>
+<list> v6
+	1: 1
+</list>
+<list> v8
+	1: 1
+</list>
+<list> valid
+	0: 2
+</list>
+<list> validity
+	0: 2
+</list>
+<list> value
+	0: 5
+	1: 2
+	3: 1
+</list>
+<list> values
+	0: 4
+</list>
+<list> var
+	3: 1
+</list>
+<list> variables
+	0: 4
+</list>
+<list> various
+	0: 3
+</list>
+<list> ve
+	0: 7
+	1: 6
+	3: 1
+</list>
+<list> vector
+	0: 9
+</list>
+<list> vectors
+	0: 1
+</list>
+<list> vendor
+	0: 1
+</list>
+<list> vers
+	1: 3
+</list>
+<list> version
+	1: 7
+	3: 1
+	0: 1
+</list>
+<list> versions
+	1: 1
+</list>
+<list> very
+	0: 6
+	1: 1
+</list>
+<list> via
+	0: 2
+</list>
+<list> view
+	1: 3
+</list>
+<list> viewing
+	1: 1
+</list>
+<list> violate
+	0: 1
+</list>
+<list> vizion
+	3: 1
+</list>
+<list> volcanic
+	3: 1
+</list>
+<list> w32dsm89
+	1: 1
+</list>
+<list> w3filer
+	3: 4
+</list>
+<list> w3filer32
+	3: 1
+</list>
+<list> w3filerkeygen
+	3: 1
+</list>
+<list> wait
+	3: 1
+	0: 1
+</list>
+<list> waiting
+	0: 1
+</list>
+<list> waits
+	0: 1
+</list>
+<list> want
+	0: 11
+	1: 5
+</list>
+<list> wanted
+	1: 2
+	0: 2
+</list>
+<list> wants
+	0: 4
+</list>
+<list> wares
+	0: 3
+</list>
+<list> was
+	0: 19
+	1: 3
+	3: 2
+</list>
+<list> watch
+	0: 3
+</list>
+<list> watching
+	0: 1
+</list>
+<list> way
+	0: 12
+	1: 1
+</list>
+<list> wd32asm
+	3: 1
+</list>
+<list> we
+	0: 43
+	3: 11
+	1: 8
+</list>
+<list> weat
+	0: 1
+</list>
+<list> web
+	3: 1
+</list>
+<list> weird
+	0: 1
+</list>
+<list> welcome
+	0: 1
+</list>
+<list> well
+	0: 4
+	3: 3
+</list>
+<list> went
+	0: 1
+</list>
+<list> were
+	0: 3
+	1: 1
+</list>
+<list> weren
+	0: 1
+</list>
+<list> what
+	0: 63
+	3: 4
+	1: 2
+</list>
+<list> whatever
+	0: 4
+</list>
+<list> when
+	0: 48
+	1: 6
+</list>
+<list> whenever
+	0: 1
+</list>
+<list> where
+	0: 17
+	1: 2
+</list>
+<list> whereas
+	0: 1
+</list>
+<list> whether
+	0: 3
+</list>
+<list> which
+	0: 28
+	1: 2
+</list>
+<list> whichever
+	0: 1
+</list>
+<list> while
+	0: 11
+	3: 1
+</list>
+<list> whirr
+	0: 1
+</list>
+<list> who
+	1: 4
+</list>
+<list> whois
+	1: 3
+</list>
+<list> whole
+	0: 1
+</list>
+<list> whose
+	0: 1
+</list>
+<list> why
+	0: 7
+	1: 2
+	2: 1
+</list>
+<list> will
+	0: 134
+	1: 2
+</list>
+<list> win32
+	1: 2
+</list>
+<list> window
+	1: 1
+</list>
+<list> windows
+	1: 5
+</list>
+<list> windows95
+	3: 1
+</list>
+<list> winprog
+	1: 2
+</list>
+<list> wish
+	0: 2
+</list>
+<list> with
+	0: 58
+	1: 7
+	3: 1
+	2: 1
+</list>
+<list> within
+	0: 8
+	1: 1
+</list>
+<list> without
+	0: 4
+	3: 2
+	1: 2
+</list>
+<list> won
+	0: 2
+</list>
+<list> wonderful
+	0: 1
+</list>
+<list> wooden
+	0: 1
+</list>
+<list> word
+	0: 21
+</list>
+<list> words
+	0: 2
+</list>
+<list> work
+	0: 10
+	3: 1
+	1: 1
+</list>
+<list> working
+	1: 1
+	0: 1
+</list>
+<list> works
+	0: 3
+</list>
+<list> world
+	0: 1
+</list>
+<list> worry
+	1: 1
+</list>
+<list> would
+	0: 16
+	1: 1
+</list>
+<list> wrapster
+	1: 1
+</list>
+<list> write
+	0: 19
+	3: 3
+	1: 1
+</list>
+<list> writeln
+	3: 4
+</list>
+<list> writes
+	0: 3
+</list>
+<list> writing
+	0: 4
+	3: 1
+</list>
+<list> written
+	0: 6
+	3: 1
+	1: 1
+</list>
+<list> wrong
+	0: 5
+</list>
+<list> wrote
+	0: 1
+</list>
+<list> wsprintfa
+	3: 1
+</list>
+<list> www
+	1: 2
+	3: 1
+</list>
+<list> x
+	3: 4
+</list>
+<list> xor
+	3: 4
+	1: 2
+	0: 1
+</list>
+<list> xxxx
+	0: 10
+</list>
+<list> ya
+	3: 1
+</list>
+<list> years
+	0: 1
+</list>
+<list> yes
+	3: 1
+</list>
+<list> yet
+	1: 1
+</list>
+<list> yielded
+	0: 2
+</list>
+<list> yoshi
+	3: 1
+</list>
+<list> you
+	0: 325
+	1: 35
+	3: 11
+	2: 6
+</list>
+<list> your
+	0: 19
+	1: 11
+	3: 6
+	2: 2
+</list>
+<list> yourself
+	0: 6
+	3: 1
+	2: 1
+	1: 1
+</list>
+<list> z
+	0: 1
+</list>
+<list> zero
+	0: 10
+</list>
+<list> zeros
+	0: 1
+</list>
+<list> zf
+	0: 5
+</list>
+<list> zip
+	1: 2
+</list>
+<list> zr
+	0: 1
+</list>
+<files>
+3 Untitled Folder/HowTo-Make-Key-Generators.txt
+2 Untitled Folder/6 Reasons Computers Are Female.txt
+1 Untitled Folder/napsterhack.txt
+0 Untitled Folder/Cracking.txt
+</files>
